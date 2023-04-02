@@ -38,15 +38,16 @@
 
 <p>
 <div>
-<img align="right" width="49%" height="auto" src="https://user-images.githubusercontent.com/104200268/229356609-da4fde8a-7fe5-4a16-9e17-ee0c75489f78.jpg">
+<img align="right" width="45%" height="auto" src="https://user-images.githubusercontent.com/104200268/229356609-da4fde8a-7fe5-4a16-9e17-ee0c75489f78.jpg">
 <br>
+ <br>
 <h1>Responsibilities</h1>
 <li>UI Design</li>
-<li>Implemented basic functionality of activities</li>
-<li>Integration and Usage of OpenWeatherAPI</li>
+<li>Implementation of basic activity functionality</li>
+<li>Integration and usage of OpenWeatherAPI</li>
 <li>Leaderboard implementation</li>
 <li>Game Design</li>
-<li>StoryBoard creation</li>
+<li>Storyboard creation</li>
 <li>Icon creation</li>
 <br>
 <br>
@@ -58,7 +59,6 @@
 <p>
 <div>
 <img align="left" width="50%" height="auto" src="https://user-images.githubusercontent.com/104200268/229356449-dece401e-a36c-48ed-9296-62fd0eefb1d3.jpg">
-
 <h1>Features</h1>
 <li>Collect Puzzle-Pieces</li>
 <li>Strengthen Friendships</li>
