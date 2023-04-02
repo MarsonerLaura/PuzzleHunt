@@ -50,7 +50,6 @@
 <li>Storyboard creation</li>
 <li>Icon creation</li>
 <br>
-<br>
 </div>
 </p>
 
@@ -61,9 +60,8 @@
 <img align="left" width="50%" height="auto" src="https://user-images.githubusercontent.com/104200268/229356449-dece401e-a36c-48ed-9296-62fd0eefb1d3.jpg">
 <h1>Features</h1>
 <li>Collect Puzzle-Pieces</li>
-<li>Strengthen Friendships</li>
-<li>Shops</li>
-<li>Dealers</li>
+<li>Friendship Boni</li>
+<li>Dealer & Shops</li>
 <li>Leaderboard</li>
 <li>Trade Puzzle-Pieces</li>
 <li>Weather dependent Puzzle-Piece spawning</li>
