@@ -1,5 +1,5 @@
 ![Banner](https://user-images.githubusercontent.com/104200268/229340363-cde75b30-b776-4727-8847-1ac8496c8db4.png)
-<p align="center"><i>PuzzleHunt</i> is a serious game that combines the addictive and engaging gameplay of an action RPG with optional but rewarding mathematical content. In a fantasy world, players can explore, fight enemies, learn skills, complete quests, find chests, collect and upgrade items. The game includes mathematical content in the form of shops, quests where players face real-world problems, riddles to open chests, and equations to upgrade items. By applying proven design principles for serious games, <i>Kingdom of Math</i>  provides an intrinsically motivating gameplay experience that aims to increase player engagement with mathematical topics.</p>
+<p align="center"><i>PuzzleHunt</i> is a social game for mobile devices that allows players to collect Puzzle Pieces while running around in real life and combine them to complete puzzles. It also allows to gamble at dealers located around the map and to buy puzzlle pieces in shops and to trade them with friends. The longer and better the friendship is the better the trading boni between friends.</p>
 
 <br>
 
@@ -24,7 +24,7 @@
 <li><b>Role:</b>&emsp;&emsp;&emsp;&emsp;Programmer, Designer</li>
 <li><b>Duration:</b>&emsp;&emsp;2 Months</li>
 <li><b>Group Size:</b>&emsp;5</li>
-<li><b>Genre:</b>&emsp;&emsp;&emsp;&nbsp;Social Game</li>
+<li><b>Genre:</b>&emsp;&emsp;&emsp;&nbsp;Mobile Social Game</li>
 <li><b>Platform:</b>&emsp;&emsp;Android</li>
 <li><b>Context:</b>&emsp;&emsp;&nbsp;Social Gaming Course</li>
 </p>
