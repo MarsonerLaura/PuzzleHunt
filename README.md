@@ -123,7 +123,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 
  <details> 
  <summary>Leaderboard Code snippets</summary>
- <br>
+ 
  > <details> 
  >  <summary>Leaderboard Activity class that collects all users and displays them sortet by XP Points</summary>
  >
@@ -179,249 +179,254 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  > }
  > ```
  > </details> 
- <br>
+ 
  > <details> 
- >  <summary> User class with only relevant methods for the Leaderboard activity, namely the comparison of users by XP</summary>
+ >  <summary>User class with only relevant methods for the Leaderboard activity, namely the comparison of users by XP</summary>
  >
  > ```java
- >public class User implements Comparable{
- >    public String id;
- >    public String nickName;
- >    public Long xp;
- >    public List<String> friends;
- >    public String description;
+ > public class User implements Comparable{
+ >     public String id;
+ >     public String nickName;
+ >     public Long xp;
+ >     public List<String> friends;
+ >     public String description;
  >
- >    public String getXP() {
- >        return this.xp.toString();
- >    }
+ >     public String getXP() {
+ >         return this.xp.toString();
+ >     }
  >
- >    //Compares the XP of the Users
- >    @Override
- >    public int compareTo(Object o) {
- >        int compareXp = Integer.parseInt(((User)o).getXP());
- >        return compareXp-Integer.parseInt(this.xp.toString());
- >    }
- >}
+ >     //Compares the XP of the Users
+ >     @Override
+ >     public int compareTo(Object o) {
+ >         int compareXp = Integer.parseInt(((User)o).getXP());
+ >         return compareXp-Integer.parseInt(this.xp.toString());
+ >     }
+ > }
  > ```
  > </details>
- <br>
+
  > <details> 
- >  <summary>  Leaderboard Adapter that is used to dynamically display content</summary>
+ >  <summary>Leaderboard Adapter that is used to dynamically display content</summary>
  >
  > ```java
- >public class LeaderboardAdapter extends RecyclerView.Adapter<LeaderboardAdapter.RecyclerItemViewHolder> {
- >    private ArrayList<User> myList;
- >    int mLastPosition = 0;
- >
- >        public LeaderboardAdapter(ArrayList<User> myList) {
- >            this.myList = myList;
- >        }
- >
- >        public RecyclerItemViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
- >            View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.user_row, parent, false);
- >            RecyclerItemViewHolder holder = new RecyclerItemViewHolder(view);
- >            return holder;
- >        }
- >        @Override
- >        public void onBindViewHolder(RecyclerItemViewHolder holder, final int position) {
- >            Log.d("onBindViewHoler ", myList.size() + "");
- >            holder.etPlaceTextView.setText(Integer.toString(position+1));
- >            holder.etNameTextView.setText(myList.get(position).getName().toString());
- >            holder.etXPTextView.setText(myList.get(position).getXP().toString());
- >           holder.crossImage.setImageResource(R.drawable.profile_pic1);
- >            mLastPosition =position;
- >        }
- >        @Override
- >        public int getItemCount() {
- >            return(null != myList?myList.size():0);
- >        }
- >        public void notifyData(ArrayList<User> myList) {
- >            Log.d("notifyData ", myList.size() + "");
- >            this.myList = myList;
- >            notifyDataSetChanged();
- >        }
- >        public class RecyclerItemViewHolder extends RecyclerView.ViewHolder {
- >            private final TextView etPlaceTextView;
- >            private final TextView etNameTextView;
- >            private final TextView etXPTextView;
- >            private CardView mainLayout;
- >            public ImageView crossImage;
- >            public RecyclerItemViewHolder(final View parent) {
- >                super(parent);
- >                etPlaceTextView = (TextView) parent.findViewById(R.id.place_textView);
- >                etNameTextView = (TextView) parent.findViewById(R.id.name_textView2);
- >                etXPTextView = (TextView) parent.findViewById(R.id.xp_textView2);
- >                crossImage = (ImageView) parent.findViewById(R.id.user_pic_imageView);
- >                mainLayout = (CardView) parent.findViewById(R.id.user_CardView);
- >            }
- >        }
- >    }
+ > public class LeaderboardAdapter extends RecyclerView.Adapter<LeaderboardAdapter.RecyclerItemViewHolder> {
+ >     private ArrayList<User> myList;
+ >     int mLastPosition = 0;
+ > 
+ >         public LeaderboardAdapter(ArrayList<User> myList) {
+ >             this.myList = myList;
+ >         }
+ > 
+ >         public RecyclerItemViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
+ >             View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.user_row, parent, false);
+ >             RecyclerItemViewHolder holder = new RecyclerItemViewHolder(view);
+ >             return holder;
+ >         }
+ >         @Override
+ >         public void onBindViewHolder(RecyclerItemViewHolder holder, final int position) {
+ >             Log.d("onBindViewHoler ", myList.size() + "");
+ >             holder.etPlaceTextView.setText(Integer.toString(position+1));
+ >             holder.etNameTextView.setText(myList.get(position).getName().toString());
+ >             holder.etXPTextView.setText(myList.get(position).getXP().toString());
+ >             holder.crossImage.setImageResource(R.drawable.profile_pic1);
+ >             mLastPosition =position;
+ >         }
+ >         @Override
+ >         public int getItemCount() {
+ >             return(null != myList?myList.size():0);
+ >         }
+ >         public void notifyData(ArrayList<User> myList) {
+ >             Log.d("notifyData ", myList.size() + "");
+ >             this.myList = myList;
+ >             notifyDataSetChanged();
+ >         } 
+ >         public class RecyclerItemViewHolder extends RecyclerView.ViewHolder {
+ >             private final TextView etPlaceTextView;
+ >             private final TextView etNameTextView;
+ >             private final TextView etXPTextView;
+ >             private CardView mainLayout;
+ >             public ImageView crossImage;
+ >             public RecyclerItemViewHolder(final View parent) {
+ >                 super(parent);
+ >                 etPlaceTextView = (TextView) parent.findViewById(R.id.place_textView);
+ >                 etNameTextView = (TextView) parent.findViewById(R.id.name_textView2);
+ >                 etXPTextView = (TextView) parent.findViewById(R.id.xp_textView2);
+ >                 crossImage = (ImageView) parent.findViewById(R.id.user_pic_imageView);
+ >                 mainLayout = (CardView) parent.findViewById(R.id.user_CardView);
+ >             }
+ >         }
+ >     }
  > ```
- > <br>
- > XML file for the leaderboard layout
+ > </details>
+ 
+ > <details> 
+ >  <summary>XML file for the leaderboard layout</summary>
  > 
  > ```xml
- ><?xml version="1.0" encoding="utf-8"?>
- ><androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
- >    xmlns:app="http://schemas.android.com/apk/res-auto"
- >    xmlns:tools="http://schemas.android.com/tools"
- >    android:layout_width="match_parent"
- >    android:layout_height="match_parent"
- >    android:padding="10dp"
- >    tools:context=".LeaderboardActivity">
+ > <?xml version="1.0" encoding="utf-8"?>
+ > <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+ >     xmlns:app="http://schemas.android.com/apk/res-auto"
+ >     xmlns:tools="http://schemas.android.com/tools"
+ >     android:layout_width="match_parent"
+ >     android:layout_height="match_parent"
+ >     android:padding="10dp"
+ >     tools:context=".LeaderboardActivity">
+ > 
+ >     <TextView
+ >         android:id="@+id/leaderboard_text"
+ >         android:layout_width="match_parent"
+ >         android:layout_height="wrap_content"
+ >         android:layout_marginTop="25dp"
+ >         android:layout_marginBottom="25dp"
+ >         android:fontFamily="sans-serif-black"
+ >         android:text="Leaderboard"
+ >         android:textAlignment="center"
+ >         android:textAllCaps="false"
+ >         android:textSize="40dp"
+ >         app:layout_constraintBottom_toTopOf="@+id/guideline34"
+ >         app:layout_constraintEnd_toEndOf="parent"
+ >         app:layout_constraintHorizontal_bias="0.0"
+ >         app:layout_constraintStart_toStartOf="parent"
+ >         app:layout_constraintTop_toTopOf="parent"></TextView>
  >
- >    <TextView
- >        android:id="@+id/leaderboard_text"
- >        android:layout_width="match_parent"
- >        android:layout_height="wrap_content"
- >        android:layout_marginTop="25dp"
- >        android:layout_marginBottom="25dp"
- >        android:fontFamily="sans-serif-black"
- >        android:text="Leaderboard"
- >        android:textAlignment="center"
- >        android:textAllCaps="false"
- >        android:textSize="40dp"
- >        app:layout_constraintBottom_toTopOf="@+id/guideline34"
- >        app:layout_constraintEnd_toEndOf="parent"
- >        app:layout_constraintHorizontal_bias="0.0"
- >        app:layout_constraintStart_toStartOf="parent"
- >        app:layout_constraintTop_toTopOf="parent"></TextView>
+ >     <androidx.constraintlayout.widget.Guideline
+ >         android:id="@+id/guideline34"
+ >         android:layout_width="wrap_content"
+ >         android:layout_height="wrap_content"
+ >         android:orientation="horizontal"
+ >         app:layout_constraintGuide_begin="146dp" />
  >
- >    <androidx.constraintlayout.widget.Guideline
- >        android:id="@+id/guideline34"
- >        android:layout_width="wrap_content"
- >        android:layout_height="wrap_content"
- >        android:orientation="horizontal"
- >        app:layout_constraintGuide_begin="146dp" />
+ >     <androidx.recyclerview.widget.RecyclerView
+ >         android:id="@+id/leaderboard_recyclerview"
+ >         android:layout_width="0dp"
+ >         android:layout_height="0dp"
+ >         android:layout_marginTop="10dp"
+ >         android:layout_marginBottom="25dp"
+ >         app:layout_constraintBottom_toBottomOf="parent"
+ >         app:layout_constraintEnd_toEndOf="parent"
+ >         app:layout_constraintStart_toStartOf="parent"
+ >         app:layout_constraintTop_toTopOf="@+id/guideline34" />
  >
- >    <androidx.recyclerview.widget.RecyclerView
- >        android:id="@+id/leaderboard_recyclerview"
- >        android:layout_width="0dp"
- >        android:layout_height="0dp"
- >        android:layout_marginTop="10dp"
- >        android:layout_marginBottom="25dp"
- >        app:layout_constraintBottom_toBottomOf="parent"
- >        app:layout_constraintEnd_toEndOf="parent"
- >        app:layout_constraintStart_toStartOf="parent"
- >        app:layout_constraintTop_toTopOf="@+id/guideline34" />
- >
- ></androidx.constraintlayout.widget.ConstraintLayout>
+ > </androidx.constraintlayout.widget.ConstraintLayout>
  > ```
- > <br>
- > XML file for each user row in the leaderboard
+ > </details>
+ 
+ > <details> 
+ >  <summary>XML file for each user row in the leaderboard</summary>
  > 
  > ```xml
- ><?xml version="1.0" encoding="utf-8"?>
- ><androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
- >    xmlns:app="http://schemas.android.com/apk/res-auto"
- >    xmlns:tools="http://schemas.android.com/tools"
- >    android:layout_width="match_parent"
- >    android:layout_height="wrap_content"
- >    android:orientation="vertical">
+ > <?xml version="1.0" encoding="utf-8"?>
+ > <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+ >     xmlns:app="http://schemas.android.com/apk/res-auto"
+ >     xmlns:tools="http://schemas.android.com/tools"
+ >     android:layout_width="match_parent"
+ >     android:layout_height="wrap_content"
+ >     android:orientation="vertical">
+ >  
+ >     <com.google.android.material.card.MaterialCardView
+ >         android:id="@+id/user_CardView"
+ >         android:layout_width="match_parent"
+ >         android:layout_height="wrap_content"
+ >         android:elevation="10dp"
+ >         android:layout_marginBottom="10dp"
+ >         app:layout_constraintBottom_toBottomOf="parent"
+ >         app:layout_constraintEnd_toEndOf="parent"
+ >         app:layout_constraintStart_toStartOf="parent"
+ >         app:layout_constraintTop_toTopOf="parent">
+ >  
+ >         <androidx.constraintlayout.widget.ConstraintLayout
+ >             android:layout_width="match_parent"
+ >             android:layout_height="match_parent"
+ >             android:orientation="vertical">
+ >  
+ >             <ImageView
+ >                 android:id="@+id/user_pic_imageView"
+ >                 android:layout_width="80dp"
+ >                 android:layout_height="80dp"
+ >                 android:layout_marginStart="5dp"
+ >                 android:layout_marginTop="5dp"
+ >                 android:layout_marginEnd="5dp"
+ >                 android:layout_marginBottom="5dp"
+ >                 app:layout_constraintBottom_toBottomOf="parent"
+ >                 app:layout_constraintEnd_toStartOf="@+id/guideline13"
+ >                 app:layout_constraintStart_toStartOf="@+id/guideline33"
+ >                 app:layout_constraintTop_toTopOf="parent"
+ >                 app:layout_constraintVertical_bias="0.0"
+ >                 tools:srcCompat="@drawable/avatar" />
+ >
+ >             <TextView
+ >                 android:id="@+id/name_textView2"
+ >                 android:layout_width="wrap_content"
+ >                 android:layout_height="wrap_content"
+ >                 android:layout_marginStart="10dp"
+ >                 android:layout_marginTop="5dp"
+ >                 android:layout_marginBottom="5dp"
+ >                 android:text="Name: "
+ >                 app:layout_constraintBottom_toTopOf="@+id/guideline12"
+ >                 app:layout_constraintEnd_toEndOf="parent"
+ >                 app:layout_constraintHorizontal_bias="0.0"
+ >                 app:layout_constraintStart_toStartOf="@+id/guideline13"
+ >                 app:layout_constraintTop_toTopOf="parent" />
+ >
+ >             <androidx.constraintlayout.widget.Guideline
+ >                 android:id="@+id/guideline12"
+ >                 android:layout_width="wrap_content"
+ >                 android:layout_height="wrap_content"
+ >                 android:orientation="horizontal"
+ >                 app:layout_constraintGuide_begin="41dp" />
  > 
- >    <com.google.android.material.card.MaterialCardView
- >       android:id="@+id/user_CardView"
- >       android:layout_width="match_parent"
- >       android:layout_height="wrap_content"
- >       android:elevation="10dp"
- >       android:layout_marginBottom="10dp"
- >       app:layout_constraintBottom_toBottomOf="parent"
- >       app:layout_constraintEnd_toEndOf="parent"
- >       app:layout_constraintStart_toStartOf="parent"
- >       app:layout_constraintTop_toTopOf="parent">
+ >             <androidx.constraintlayout.widget.Guideline
+ >                 android:id="@+id/guideline13"
+ >                 android:layout_width="wrap_content"
+ >                 android:layout_height="wrap_content"
+ >                 android:orientation="vertical"
+ >                 app:layout_constraintGuide_begin="161dp" />
+ > 
+ >             <TextView
+ >                 android:id="@+id/xp_textView2"
+ >                 android:layout_width="wrap_content"
+ >                 android:layout_height="wrap_content"
+ >                 android:layout_marginStart="10dp"
+ >                 android:layout_marginTop="5dp"
+ >                 android:layout_marginBottom="5dp"
+ >                 android:text="XP:"
+ >                 app:layout_constraintBottom_toBottomOf="parent"
+ >                 app:layout_constraintEnd_toEndOf="parent"
+ >                 app:layout_constraintHorizontal_bias="0.0"
+ >                 app:layout_constraintStart_toStartOf="@+id/guideline13"
+ >                 app:layout_constraintTop_toTopOf="@+id/guideline12" />
+ > 
+ >             <androidx.constraintlayout.widget.Guideline
+ >                 android:id="@+id/guideline33"
+ >                 android:layout_width="wrap_content"
+ >                 android:layout_height="wrap_content"
+ >                 android:orientation="vertical"
+ >                 app:layout_constraintGuide_begin="68dp" />
+ > 
+ >             <TextView
+ >                 android:id="@+id/place_textView"
+ >                 android:layout_width="wrap_content"
+ >                 android:layout_height="wrap_content"
+ >                 android:layout_marginStart="5dp"
+ >                 android:layout_marginTop="5dp"
+ >                 android:layout_marginEnd="5dp"
+ >                 android:layout_marginBottom="5dp"
+ >                 android:text="2"
+ >                 android:textSize="30dp"
+ >                 app:layout_constraintBottom_toBottomOf="parent"
+ >                 app:layout_constraintEnd_toStartOf="@+id/guideline33"
+ >                 app:layout_constraintStart_toStartOf="parent"
+ >                 app:layout_constraintTop_toTopOf="parent" />
  >
- >       <androidx.constraintlayout.widget.ConstraintLayout
- >           android:layout_width="match_parent"
- >           android:layout_height="match_parent"
- >           android:orientation="vertical">
+ >         </androidx.constraintlayout.widget.ConstraintLayout>
  >
- >            <ImageView
- >               android:id="@+id/user_pic_imageView"
- >               android:layout_width="80dp"
- >               android:layout_height="80dp"
- >               android:layout_marginStart="5dp"
- >               android:layout_marginTop="5dp"
- >               android:layout_marginEnd="5dp"
- >               android:layout_marginBottom="5dp"
- >               app:layout_constraintBottom_toBottomOf="parent"
- >               app:layout_constraintEnd_toStartOf="@+id/guideline13"
- >               app:layout_constraintStart_toStartOf="@+id/guideline33"
- >               app:layout_constraintTop_toTopOf="parent"
- >               app:layout_constraintVertical_bias="0.0"
- >               tools:srcCompat="@drawable/avatar" />
-
-            <TextView
-                android:id="@+id/name_textView2"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="10dp"
-                android:layout_marginTop="5dp"
-                android:layout_marginBottom="5dp"
-                android:text="Name: "
-                app:layout_constraintBottom_toTopOf="@+id/guideline12"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.0"
-                app:layout_constraintStart_toStartOf="@+id/guideline13"
-                app:layout_constraintTop_toTopOf="parent" />
-
-            <androidx.constraintlayout.widget.Guideline
-                android:id="@+id/guideline12"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:orientation="horizontal"
-                app:layout_constraintGuide_begin="41dp" />
-
-            <androidx.constraintlayout.widget.Guideline
-                android:id="@+id/guideline13"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:orientation="vertical"
-                app:layout_constraintGuide_begin="161dp" />
-
-            <TextView
-                android:id="@+id/xp_textView2"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="10dp"
-                android:layout_marginTop="5dp"
-                android:layout_marginBottom="5dp"
-                android:text="XP:"
-                app:layout_constraintBottom_toBottomOf="parent"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.0"
-                app:layout_constraintStart_toStartOf="@+id/guideline13"
-                app:layout_constraintTop_toTopOf="@+id/guideline12" />
-
-            <androidx.constraintlayout.widget.Guideline
-                android:id="@+id/guideline33"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:orientation="vertical"
-                app:layout_constraintGuide_begin="68dp" />
-
-            <TextView
-                android:id="@+id/place_textView"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="5dp"
-                android:layout_marginTop="5dp"
-                android:layout_marginEnd="5dp"
-                android:layout_marginBottom="5dp"
-                android:text="2"
-                android:textSize="30dp"
-                app:layout_constraintBottom_toBottomOf="parent"
-                app:layout_constraintEnd_toStartOf="@+id/guideline33"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toTopOf="parent" />
-
-
-        </androidx.constraintlayout.widget.ConstraintLayout>
-
-    </com.google.android.material.card.MaterialCardView>
-
-</androidx.constraintlayout.widget.ConstraintLayout>
+ >     </com.google.android.material.card.MaterialCardView>
+ >
+ > </androidx.constraintlayout.widget.ConstraintLayout>
  > ```
-</details>
+ > </details>
+ </details>
+ 
  <details>
   <summary>Thesis</summary>
  <br>
