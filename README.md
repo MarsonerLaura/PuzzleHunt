@@ -7,7 +7,7 @@
  
 `AndroidStudio`
 `Java`
-`Kotlin`
+`XML`
 `Firebase`
 `MongoDB`
 `Play! Framework`
