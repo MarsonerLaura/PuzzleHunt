@@ -36,12 +36,13 @@
 <img align="right" width="42%" height="auto" src="https://user-images.githubusercontent.com/104200268/227627070-b529d4c9-8838-4a3e-8055-d579a45d0ede.png">
 <br>
 <h1>Responsibilities</h1>
-<li><b>UI Design</b></li>
-<li><b>Implemented basic functionality of activities</b></li>
-<li><b>Integration and Usage of OpenWeatherAPI</b></li>
-<li><b>Leaderboard implementation<b></li>
-<li><b>Game Design</b></li>
-<li><b>StoryBoard creation</b></li>
+<li>UI Design</li>
+<li>Implemented basic functionality of activities</li>
+<li>Integration and Usage of OpenWeatherAPI</li>
+<li>Leaderboard implementation</li>
+<li>Game Design</li>
+<li>StoryBoard creation</li>
+<li>Icon creation</li>
 <br>
 <br>
 </div>
