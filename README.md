@@ -40,6 +40,7 @@
 <div>
 <img align="right" width="47%" height="auto" src="https://user-images.githubusercontent.com/104200268/229356609-da4fde8a-7fe5-4a16-9e17-ee0c75489f78.jpg">
 <br>
+ <br>
 <h1>Responsibilities</h1>
 <li>UI Design</li>
 <li>Implementation of basic activity functionality</li>
