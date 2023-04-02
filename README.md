@@ -12,31 +12,15 @@
 `MongoDB`
 `Play! Framework`
 `OpenWeatherAPI`
+`GitLab`
 `Krita`
 
 </div>
 
 ---
 
-<---
-![image4](https://user-images.githubusercontent.com/104200268/229355134-e85e6ada-f8ff-42bf-8e49-50407ff6e8f6.png)
-![image6](https://user-images.githubusercontent.com/104200268/229355153-d94464af-d1b0-4375-887e-771f188978d9.png)
-![image10](https://user-images.githubusercontent.com/104200268/229355162-00f4fcf8-f68b-41d5-836a-353bd9963fb3.png)
-![image13](https://user-images.githubusercontent.com/104200268/229355179-0e094341-9acf-487f-8fb6-112a1577466e.png)
-![image16](https://user-images.githubusercontent.com/104200268/229355185-eb50c5e7-1110-4dbe-822e-9c41e4446c7d.jpg)
-![image15](https://user-images.githubusercontent.com/104200268/229355192-3c5a1a8c-43cb-4885-97ef-0a03d6a8350e.jpg)
-![image14](https://user-images.githubusercontent.com/104200268/229355199-17a18172-c5d8-4bb9-9060-9c8eea3498a8.jpg)
-![image5](https://user-images.githubusercontent.com/104200268/229355203-fb313836-34d2-4910-9128-0715a9f1ac99.jpg)
-![image1](https://user-images.githubusercontent.com/104200268/229355211-b25fdc2f-256d-416d-b1b7-869417861cd1.png)
-![image3](https://user-images.githubusercontent.com/104200268/229355213-fc349932-5b79-4c87-abff-125b9d1f76dc.jpg)
-![imgonline-com-ua-twotoone-hE8rEMC9CHkQ](https://user-images.githubusercontent.com/104200268/229355699-d44aa406-9d2a-4c3c-9ee7-04912c477099.jpg)
-![imgonline-com-ua-twotoone-6AXgT0k2lgc0HF](https://user-images.githubusercontent.com/104200268/229355706-a59e7ee5-7288-416b-b4d5-8be32706ce5d.jpg)
-![imgonline-com-ua-twotoone-JKqWW5TMbMy6](https://user-images.githubusercontent.com/104200268/229355707-9485b1b4-c284-4e80-b605-b3d6fab2ce9d.jpg)
-![imgonline-com-ua-twotoone-y7xGNIICvWqAHpqS](https://user-images.githubusercontent.com/104200268/229355709-be81ea0a-cbf3-4ea5-bc02-1fd1da6b5eaa.jpg)
---->
-
 <p>
-<img align="left" width="53%" height="auto" src="https://user-images.githubusercontent.com/104200268/229355699-d44aa406-9d2a-4c3c-9ee7-04912c477099.jpg">
+<img align="left" width="50%" height="auto" src="https://user-images.githubusercontent.com/104200268/229356173-6fc36fd0-479b-45f7-9951-6359514ab732.jpg">
 <h1>About</h1>
 <li><b>Role:</b>&emsp;&emsp;&emsp;&emsp;Programmer, Designer</li>
 <li><b>Duration:</b>&emsp;&emsp;2 Months</li>
@@ -50,7 +34,7 @@
 
 <p>
 <div>
-<img align="right" width="42%" height="auto" src="https://user-images.githubusercontent.com/104200268/229355706-a59e7ee5-7288-416b-b4d5-8be32706ce5d.jpg">
+<img align="right" width="50%" height="auto" src="https://user-images.githubusercontent.com/104200268/229356449-dece401e-a36c-48ed-9296-62fd0eefb1d3.jpg">
 <br>
 <h1>Responsibilities</h1>
 <li>UI Design</li>
@@ -70,15 +54,16 @@
 
 <p>
 <div>
-<img align="left" width="50%" height="auto" src="https://user-images.githubusercontent.com/104200268/229355707-9485b1b4-c284-4e80-b605-b3d6fab2ce9d.jpg">
+<img align="left" width="50%" height="auto" src="https://user-images.githubusercontent.com/104200268/229356456-7ec3ed3f-44f7-4d6f-acb6-a67cff7449d9.jpg">
 <br>
 <h1>Features</h1>
-<li>Collect PuzzlePieces</li>
+<li>Collect Puzzle-Pieces</li>
 <li>Strengthen Friendships</li>
 <li>Shops</li>
 <li>Dealers</li>
 <li>Leaderboard</li>
-<li>Trade PuzzlePieces</li>
+<li>Trade Puzzle-Pieces</li>
+<li>Weather dependent Puzzle-Piece spawning</li>
 </div>
 </p>
 
