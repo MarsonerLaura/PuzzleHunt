@@ -58,7 +58,8 @@
 <p>
 <div>
 <img align="left" width="50%" height="auto" src="https://user-images.githubusercontent.com/104200268/229356449-dece401e-a36c-48ed-9296-62fd0eefb1d3.jpg">
-<h1>Features</h1>
+<br>
+ <h1>Features</h1>
 <li>Collect Puzzle-Pieces</li>
 <li>Friendship Boni</li>
 <li>Dealer & Shops</li>
