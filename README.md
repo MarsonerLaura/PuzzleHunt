@@ -117,64 +117,71 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  >  </div>
  > </details>
   
+
+
+</details>
+
+ <details> 
+ <summary>Leaderboard Code snippets</summary>
+ <br>
  > <details> 
- >  <summary>Leaderboard Code snippets</summary>
- >  <br>
- >    Leaderboard Activity class -> Collects all users and displays them sortet by XP Points
+ >  <summary>Leaderboard Activity class that collects all users and displays them sortet by XP Points</summary>
  >
  > ```java
- >public class LeaderboardActivity extends AppCompatActivity {
- >    private RecyclerView mRecyclerView;
- >    private LeaderboardAdapter mRecyclerAdapter;
- >    List<SetViewItem> items = new ArrayList<>();
- >    ArrayList<User> users = new ArrayList<User>();
- >    String name = "",xp = "";
- >    private final Gson gson = new Gson();
+ > public class LeaderboardActivity extends AppCompatActivity {
+ >     private RecyclerView mRecyclerView;
+ >     private LeaderboardAdapter mRecyclerAdapter;
+ >     List<SetViewItem> items = new ArrayList<>();
+ >     ArrayList<User> users = new ArrayList<User>();
+ >     String name = "",xp = "";
+ >     private final Gson gson = new Gson();
  >
- >    //Sets the layout and displays the users sortet by XP
- >    @Override
- >    protected void onCreate(Bundle savedInstanceState) {
- >        super.onCreate(savedInstanceState);
- >        setContentView(R.layout.activity_leaderboard);
- >        mRecyclerView = (RecyclerView) findViewById(R.id.leaderboard_recyclerview);
- >        mRecyclerAdapter = new LeaderboardAdapter(users);
- >        final LinearLayoutManager layoutManager = new LinearLayoutManager(this);
- >        layoutManager.setOrientation(LinearLayoutManager.VERTICAL);
- >        mRecyclerView.setLayoutManager(layoutManager);
- >        mRecyclerView.setAdapter(mRecyclerAdapter);
+ >     //Sets the layout and displays the users sortet by XP
+ >     @Override
+ >     protected void onCreate(Bundle savedInstanceState) {
+ >         super.onCreate(savedInstanceState);
+ >         setContentView(R.layout.activity_leaderboard);
+ >         mRecyclerView = (RecyclerView) findViewById(R.id.leaderboard_recyclerview);
+ >         mRecyclerAdapter = new LeaderboardAdapter(users);
+ >         final LinearLayoutManager layoutManager = new LinearLayoutManager(this);
+ >         layoutManager.setOrientation(LinearLayoutManager.VERTICAL);
+ >         mRecyclerView.setLayoutManager(layoutManager);
+ >         mRecyclerView.setAdapter(mRecyclerAdapter);
  >
- >        fetchUsers();
- >        sortUsersByXp();
- >        mRecyclerAdapter.notifyData(users);
- >    }
+ >         fetchUsers();
+ >         sortUsersByXp();
+ >         mRecyclerAdapter.notifyData(users);
+ >     }
  >
- >    //Fetches the userdata from the database
- >    private void fetchUsers() {
- >        HTTPGetter get = new HTTPGetter();
- >        get.execute("user", "getAll");
- >        try {
- >            String getUserResult = get.get();
- >            if (!getUserResult.equals("{ }")) {
- >                User[]userArr= gson.fromJson(getUserResult, User[].class);
- >                for (User user : userArr){
- >                    users.add(user);
- >                }
- >            }
- >        } catch (ExecutionException e) {
- >            e.printStackTrace();
- >        } catch (InterruptedException e) {
- >            e.printStackTrace();
- >        }
- >    }
+ >     //Fetches the userdata from the database
+ >     private void fetchUsers() {
+ >         HTTPGetter get = new HTTPGetter();
+ >         get.execute("user", "getAll");
+ >         try {
+ >             String getUserResult = get.get();
+ >             if (!getUserResult.equals("{ }")) {
+ >                 User[]userArr= gson.fromJson(getUserResult, User[].class);
+ >                 for (User user : userArr){
+ >                     users.add(user);
+ >                 }
+ >             }
+ >         } catch (ExecutionException e) {
+ >             e.printStackTrace();
+ >         } catch (InterruptedException e) {
+ >             e.printStackTrace();
+ >         }
+ >     }
  >
- >    //Sorts the Users by XP points
- >    private void sortUsersByXp(){
- >        Collections.sort(users);
- >    }
- >}
+ >     //Sorts the Users by XP points
+ >     private void sortUsersByXp(){
+ >         Collections.sort(users);
+ >     }
+ > }
  > ```
- > <br>
- > User class with only relevant methods for the Leaderboard activity, namely the comparison of users by XP
+ > </details> 
+ <br>
+ > <details> 
+ >  <summary> User class with only relevant methods for the Leaderboard activity, namely the comparison of users by XP</summary>
  >
  > ```java
  >public class User implements Comparable{
@@ -196,8 +203,10 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  >    }
  >}
  > ```
- > <br>
- > Leaderboard Adapter which is used to dynamically display content
+ > </details>
+ <br>
+ > <details> 
+ >  <summary>  Leaderboard Adapter that is used to dynamically display content</summary>
  >
  > ```java
  >public class LeaderboardAdapter extends RecyclerView.Adapter<LeaderboardAdapter.RecyclerItemViewHolder> {
@@ -412,10 +421,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 
 </androidx.constraintlayout.widget.ConstraintLayout>
  > ```
- > </details>
-
 </details>
-
  <details>
   <summary>Thesis</summary>
  <br>
