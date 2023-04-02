@@ -56,13 +56,12 @@
 <img align="left" width="50%" height="auto" src="https://user-images.githubusercontent.com/104200268/227796152-a848cc4a-c7f6-4511-988b-5db69b7c1583.gif">
 <br>
 <h1>Features</h1>
-<li>Items & Inventory</li>
-<li>Combat & Abilities</li>
-<li>Stats & Traits</li>
-<li>Dialogues & Quests</li>
-<li>Different Enemies</li>
-<li>Tutorial + Prototype Level (1h - 1.5h playtime)</li>
-<li>Math Content (Quests, Chests, Shops, Item Upgrades)</li>
+<li>Collect PuzzlePieces</li>
+<li>Strengthen Friendships</li>
+<li>Shops</li>
+<li>Dealers</li>
+<li>Leaderboard</li>
+<li>Trade PuzzlePieces</li>
 </div>
 </p>
 
