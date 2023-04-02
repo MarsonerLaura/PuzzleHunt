@@ -252,95 +252,94 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  > XML file for the leaderboard layout
  > 
  > ```xml
-<?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:padding="10dp"
-    tools:context=".LeaderboardActivity">
-
-    <TextView
-        android:id="@+id/leaderboard_text"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="25dp"
-        android:layout_marginBottom="25dp"
-        android:fontFamily="sans-serif-black"
-        android:text="Leaderboard"
-        android:textAlignment="center"
-        android:textAllCaps="false"
-        android:textSize="40dp"
-        app:layout_constraintBottom_toTopOf="@+id/guideline34"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"></TextView>
-
-    <androidx.constraintlayout.widget.Guideline
-        android:id="@+id/guideline34"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        app:layout_constraintGuide_begin="146dp" />
-
-    <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/leaderboard_recyclerview"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
-        android:layout_marginTop="10dp"
-        android:layout_marginBottom="25dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="@+id/guideline34" />
-
-</androidx.constraintlayout.widget.ConstraintLayout>
+ ><?xml version="1.0" encoding="utf-8"?>
+ ><androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+ >    xmlns:app="http://schemas.android.com/apk/res-auto"
+ >    xmlns:tools="http://schemas.android.com/tools"
+ >    android:layout_width="match_parent"
+ >    android:layout_height="match_parent"
+ >    android:padding="10dp"
+ >    tools:context=".LeaderboardActivity">
+ >
+ >    <TextView
+ >        android:id="@+id/leaderboard_text"
+ >        android:layout_width="match_parent"
+ >        android:layout_height="wrap_content"
+ >        android:layout_marginTop="25dp"
+ >        android:layout_marginBottom="25dp"
+ >        android:fontFamily="sans-serif-black"
+ >        android:text="Leaderboard"
+ >        android:textAlignment="center"
+ >        android:textAllCaps="false"
+ >        android:textSize="40dp"
+ >        app:layout_constraintBottom_toTopOf="@+id/guideline34"
+ >        app:layout_constraintEnd_toEndOf="parent"
+ >        app:layout_constraintHorizontal_bias="0.0"
+ >        app:layout_constraintStart_toStartOf="parent"
+ >        app:layout_constraintTop_toTopOf="parent"></TextView>
+ >
+ >    <androidx.constraintlayout.widget.Guideline
+ >        android:id="@+id/guideline34"
+ >        android:layout_width="wrap_content"
+ >        android:layout_height="wrap_content"
+ >        android:orientation="horizontal"
+ >        app:layout_constraintGuide_begin="146dp" />
+ >
+ >    <androidx.recyclerview.widget.RecyclerView
+ >        android:id="@+id/leaderboard_recyclerview"
+ >        android:layout_width="0dp"
+ >        android:layout_height="0dp"
+ >        android:layout_marginTop="10dp"
+ >        android:layout_marginBottom="25dp"
+ >        app:layout_constraintBottom_toBottomOf="parent"
+ >        app:layout_constraintEnd_toEndOf="parent"
+ >        app:layout_constraintStart_toStartOf="parent"
+ >        app:layout_constraintTop_toTopOf="@+id/guideline34" />
+ >
+ ></androidx.constraintlayout.widget.ConstraintLayout>
  > ```
  > <br>
  > XML file for each user row in the leaderboard
  > 
  > ```xml
-<?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:orientation="vertical">
-
-    <com.google.android.material.card.MaterialCardView
-        android:id="@+id/user_CardView"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:elevation="10dp"
-        android:layout_marginBottom="10dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent">
-
-        <androidx.constraintlayout.widget.ConstraintLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:orientation="vertical">
-
-
-            <ImageView
-                android:id="@+id/user_pic_imageView"
-                android:layout_width="80dp"
-                android:layout_height="80dp"
-                android:layout_marginStart="5dp"
-                android:layout_marginTop="5dp"
-                android:layout_marginEnd="5dp"
-                android:layout_marginBottom="5dp"
-                app:layout_constraintBottom_toBottomOf="parent"
-                app:layout_constraintEnd_toStartOf="@+id/guideline13"
-                app:layout_constraintStart_toStartOf="@+id/guideline33"
-                app:layout_constraintTop_toTopOf="parent"
-                app:layout_constraintVertical_bias="0.0"
-                tools:srcCompat="@drawable/avatar" />
+ ><?xml version="1.0" encoding="utf-8"?>
+ ><androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+ >    xmlns:app="http://schemas.android.com/apk/res-auto"
+ >    xmlns:tools="http://schemas.android.com/tools"
+ >    android:layout_width="match_parent"
+ >    android:layout_height="wrap_content"
+ >    android:orientation="vertical">
+ > 
+ >    <com.google.android.material.card.MaterialCardView
+ >       android:id="@+id/user_CardView"
+ >       android:layout_width="match_parent"
+ >       android:layout_height="wrap_content"
+ >       android:elevation="10dp"
+ >       android:layout_marginBottom="10dp"
+ >       app:layout_constraintBottom_toBottomOf="parent"
+ >       app:layout_constraintEnd_toEndOf="parent"
+ >       app:layout_constraintStart_toStartOf="parent"
+ >       app:layout_constraintTop_toTopOf="parent">
+ >
+ >       <androidx.constraintlayout.widget.ConstraintLayout
+ >           android:layout_width="match_parent"
+ >           android:layout_height="match_parent"
+ >           android:orientation="vertical">
+ >
+ >            <ImageView
+ >               android:id="@+id/user_pic_imageView"
+ >               android:layout_width="80dp"
+ >               android:layout_height="80dp"
+ >               android:layout_marginStart="5dp"
+ >               android:layout_marginTop="5dp"
+ >               android:layout_marginEnd="5dp"
+ >               android:layout_marginBottom="5dp"
+ >               app:layout_constraintBottom_toBottomOf="parent"
+ >               app:layout_constraintEnd_toStartOf="@+id/guideline13"
+ >               app:layout_constraintStart_toStartOf="@+id/guideline33"
+ >               app:layout_constraintTop_toTopOf="parent"
+ >               app:layout_constraintVertical_bias="0.0"
+ >               tools:srcCompat="@drawable/avatar" />
 
             <TextView
                 android:id="@+id/name_textView2"
