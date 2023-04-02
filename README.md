@@ -21,6 +21,9 @@
 
 <p>
 <img align="left" width="50%" height="auto" src="https://user-images.githubusercontent.com/104200268/229356173-6fc36fd0-479b-45f7-9951-6359514ab732.jpg">
+ <br>
+ <br>
+ <br>
 <h1>About</h1>
 <li><b>Role:</b>&emsp;&emsp;&emsp;&emsp;Programmer, Designer</li>
 <li><b>Duration:</b>&emsp;&emsp;2 Months</li>
@@ -31,10 +34,12 @@
 </p>
 
 <br>
+<br>
+<br>
 
 <p>
 <div>
-<img align="right" width="50%" height="auto" src="https://user-images.githubusercontent.com/104200268/229356449-dece401e-a36c-48ed-9296-62fd0eefb1d3.jpg">
+<img align="right" width="45%" height="auto" src="https://user-images.githubusercontent.com/104200268/229356609-da4fde8a-7fe5-4a16-9e17-ee0c75489f78.jpg">
 <br>
 <h1>Responsibilities</h1>
 <li>UI Design</li>
@@ -49,12 +54,11 @@
 </div>
 </p>
 
-
 <br>
 
 <p>
 <div>
-<img align="left" width="50%" height="auto" src="https://user-images.githubusercontent.com/104200268/229356456-7ec3ed3f-44f7-4d6f-acb6-a67cff7449d9.jpg">
+<img align="left" width="50%" height="auto" src="https://user-images.githubusercontent.com/104200268/229356449-dece401e-a36c-48ed-9296-62fd0eefb1d3.jpg">
 <br>
 <h1>Features</h1>
 <li>Collect Puzzle-Pieces</li>
