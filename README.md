@@ -20,7 +20,7 @@
 ---
 
 <p>
-<img align="left" width="50%" height="auto" src="https://user-images.githubusercontent.com/104200268/229356173-6fc36fd0-479b-45f7-9951-6359514ab732.jpg">
+<img align="left" width="45%" height="auto" src="https://user-images.githubusercontent.com/104200268/229356173-6fc36fd0-479b-45f7-9951-6359514ab732.jpg">
  <br>
  <br>
 <h1>About</h1>
@@ -57,7 +57,7 @@
 
 <p>
 <div>
-<img align="left" width="50%" height="auto" src="https://user-images.githubusercontent.com/104200268/229356449-dece401e-a36c-48ed-9296-62fd0eefb1d3.jpg">
+<img align="left" width="45%" height="auto" src="https://user-images.githubusercontent.com/104200268/229357404-977edd8f-7a90-4829-9a33-8aa3956f8cfb.jpg">
 <br>
  <h1>Features</h1>
 <li>Collect Puzzle-Pieces</li>
