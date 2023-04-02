@@ -40,7 +40,6 @@
 <div>
 <img align="right" width="45%" height="auto" src="https://user-images.githubusercontent.com/104200268/229356609-da4fde8a-7fe5-4a16-9e17-ee0c75489f78.jpg">
 <br>
- <br>
 <h1>Responsibilities</h1>
 <li>UI Design</li>
 <li>Implementation of basic activity functionality</li>
@@ -60,6 +59,7 @@
 <img align="left" width="50%" height="auto" src="https://user-images.githubusercontent.com/104200268/229357404-977edd8f-7a90-4829-9a33-8aa3956f8cfb.jpg">
 <br>
  <br>
+ <br>
  <h1>Features</h1>
 <li>Collect Puzzle-Pieces</li>
 <li>Friendship Boni</li>
@@ -70,6 +70,7 @@
 </div>
 </p>
 
+<br>
 <br>
 <br>
 
