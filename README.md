@@ -68,6 +68,7 @@
 <li>Dealer & Shops</li>
 <li>Leaderboard</li>
 <li>Trade Puzzle-Pieces</li>
+<li>Send Gifts</li>
 <li>Weather dependent Puzzle-Piece spawning</li>
 </div>
 </p>
