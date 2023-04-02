@@ -8,9 +8,11 @@
 `AndroidStudio`
 `Java`
 `Kotlin`
-`Krita`
 `Firebase`
 `MongoDB`
+`Play! Framework`
+`OpenWeatherAPI`
+`Krita`
 
 </div>
 
@@ -19,14 +21,12 @@
 <p>
 <img align="left" width="53%" height="auto" src="https://user-images.githubusercontent.com/104200268/227624597-b379a28d-b547-41ef-bdc3-bba323bf3e7f.gif">
 <h1>About</h1>
-<li><b>Role:</b>&emsp;&emsp;&emsp;&emsp;Solo Dev</li>
+<li><b>Role:</b>&emsp;&emsp;&emsp;&emsp;Programmer, Designer</li>
 <li><b>Duration:</b>&emsp;&emsp;2 Months</li>
-<li><b>Group Size:</b>&emsp;1</li>
-<li><b>Engine:</b>&emsp;&emsp;&emsp;Unity</li>
-<li><b>Genre:</b>&emsp;&emsp;&emsp;&nbsp;Action RPG x Serious Math Game</li>
-<li><b>Platform:</b>&emsp;&emsp;PC</li>
-<li><b>Context:</b>&emsp;&emsp;&nbsp;Bachelors’ Thesis</li>
-<li><b>Build:</b>&emsp;&emsp;&emsp;&nbsp;&nbsp;<a href="https://lauramarsoner.itch.io/kingdomofmath">Itch.io</a></li>
+<li><b>Group Size:</b>&emsp;5</li>
+<li><b>Genre:</b>&emsp;&emsp;&emsp;&nbsp;Social Game</li>
+<li><b>Platform:</b>&emsp;&emsp;Android</li>
+<li><b>Context:</b>&emsp;&emsp;&nbsp;Social Gaming Course</li>
 </p>
 
 <br>
@@ -36,16 +36,12 @@
 <img align="right" width="42%" height="auto" src="https://user-images.githubusercontent.com/104200268/227627070-b529d4c9-8838-4a3e-8055-d579a45d0ede.png">
 <br>
 <h1>Responsibilities</h1>
-<li><b>Gameplay Programming</b> (Combat, Inventory, Movement)</li>
-<li><b>Game Design</b> (Level, Tutorial, Worldbuilding, Quests, UI/UX)</li>
-<li><b>Tool Development</b> (Dialogue Editor, Configuration Options)</li>
-<li><b>Combat System</b> (Weapons, Abilities, Animations, VFX)</li>
-<li><b>Enemie-AI & NPC-AI</b></li>
-<li><b>Dialogue, Quest & Shop System</b></li>
-<li><b>Saving System, Scene Management</b></li>
-<li><b>Progression System</b> (Stats, Traits, Difficulty)</li>
-<li><b>Project Management & Source Control</b></li>
-<li><b>Prototyping & Bugfixing</b></li>
+<li><b>UI Design</b></li>
+<li><b>Implemented basic functionality of activities</b></li>
+<li><b>Integration and Usage of OpenWeatherAPI</b></li>
+<li><b>Leaderboard implementation<b></li>
+<li><b>Game Design</b></li>
+<li><b>StoryBoard creation</b></li>
 <br>
 <br>
 </div>
