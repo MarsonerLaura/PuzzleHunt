@@ -103,7 +103,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 
 <p>
  
-<h1>Features & Code Snippets</h1>
+<h1>Feature Descriptions & Code Snippets</h1>
 
 <details>
  <summary>Collect Puzzle-Pieces</summary>
@@ -455,22 +455,39 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 
   <summary>Feature Brainstorming</summary>
  
- 
  > <details> 
  >  <summary>My Contribution</summary>
  >  <br>
  >  <div align="center">
- >   ![10DetailsGroup-01](https://user-images.githubusercontent.com/104200268/229362847-0351d3a5-9396-421b-81bf-f4edf67b0354.png)
-![10DetailsGroup-02](https://user-images.githubusercontent.com/104200268/229362853-41b7f7eb-fd15-40db-954a-2fb1e0cb2c9c.png)
-![10DetailsGroup-03](https://user-images.githubusercontent.com/104200268/229362856-9665ad66-43e2-4645-958b-6dc8d980cb98.png)
-![10DetailsGroup-04](https://user-images.githubusercontent.com/104200268/229362859-8a2d2c92-5919-42c7-9069-8bd7c64ccad8.png)
-![10DetailsGroup-05](https://user-images.githubusercontent.com/104200268/229362863-7bb368e2-4b34-4a97-abf0-ceb01ada85f0.png)
-![10DetailsGroup-06](https://user-images.githubusercontent.com/104200268/229362867-7839888e-246f-43d1-aeeb-557613c48a37.png)
-
- >  <img src="" width="60%" height="auto">
+ >  
+ >  <img src="https://user-images.githubusercontent.com/104200268/229362847-0351d3a5-9396-421b-81bf-f4edf67b0354.png" width="60%" height="auto">
+ >  </div>
+ >  <br>
+ >  <div align="center">
+ >  
+ >  <img src="https://user-images.githubusercontent.com/104200268/229362853-41b7f7eb-fd15-40db-954a-2fb1e0cb2c9c.png" width="60%" height="auto">
+ >  </div>
+ >  <br>
+ >  <div align="center">
+ >  
+ >  <img src="https://user-images.githubusercontent.com/104200268/229362856-9665ad66-43e2-4645-958b-6dc8d980cb98.png" width="60%" height="auto">
+ >  </div>
+ >  <br>
+ >  <div align="center">
+ >  
+ >  <img src="https://user-images.githubusercontent.com/104200268/229362859-8a2d2c92-5919-42c7-9069-8bd7c64ccad8.png" width="60%" height="auto">
+ >  </div>
+ >  <br>
+ >  <div align="center">
+ >  
+ >  <img src="https://user-images.githubusercontent.com/104200268/229362863-7bb368e2-4b34-4a97-abf0-ceb01ada85f0.png" width="60%" height="auto">
+ >  </div>
+ >  <br>
+ >  <div align="center">
+ >  
+ >  <img src="https://user-images.githubusercontent.com/104200268/229362867-7839888e-246f-43d1-aeeb-557613c48a37.png" width="60%" height="auto">
  >  </div>
  > </details>
-  
  > <details> 
  >  <summary>Other Teammembers contribution</summary>
  >  <br>
@@ -527,6 +544,23 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 
 
 </details>
+ 
+<details>
+ <summary>Pages</summary>
+ <br>
+
+ >  <div align="center">
+ >  To have a better overview of the different pages, how they look like and how they are connected I created a diagram that displays everything.
+ >  <br>
+ >  <img src="https://user-images.githubusercontent.com/104200268/229363879-1448290e-1691-4bcb-9614-39bd7111cdf8.jpg" width="70%" height="auto">
+ >  <br>
+ >  As the image is pretty small and it needs to be zoomed in to see the details, it is linked as a PDF to download below:
+ >
+ >  [pages.pdf](https://github.com/MarsonerLaura/PuzzleHunt/files/11132658/pages.pdf)
+ >  </div>
+ 
+</details> 
+  
  
 <details>
  <summary>Presentation</summary>
