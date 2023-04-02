@@ -105,7 +105,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 <h1>Development Process</h1>
 <details>
 
-  <summary>Dialogues & Dialogue Editor</summary>
+  <summary>Feature Ideas</summary>
  
  
  > <details> 
@@ -117,8 +117,6 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  >  </div>
  > </details>
   
-
-
 </details>
 
  <details> 
@@ -213,49 +211,56 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  >     private ArrayList<User> myList;
  >     int mLastPosition = 0;
  > 
- >         public LeaderboardAdapter(ArrayList<User> myList) {
- >             this.myList = myList;
- >         }
- > 
- >         public RecyclerItemViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
- >             View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.user_row, parent, false);
- >             RecyclerItemViewHolder holder = new RecyclerItemViewHolder(view);
- >             return holder;
- >         }
- >         @Override
- >         public void onBindViewHolder(RecyclerItemViewHolder holder, final int position) {
- >             Log.d("onBindViewHoler ", myList.size() + "");
- >             holder.etPlaceTextView.setText(Integer.toString(position+1));
- >             holder.etNameTextView.setText(myList.get(position).getName().toString());
- >             holder.etXPTextView.setText(myList.get(position).getXP().toString());
- >             holder.crossImage.setImageResource(R.drawable.profile_pic1);
- >             mLastPosition =position;
- >         }
- >         @Override
- >         public int getItemCount() {
- >             return(null != myList?myList.size():0);
- >         }
- >         public void notifyData(ArrayList<User> myList) {
- >             Log.d("notifyData ", myList.size() + "");
- >             this.myList = myList;
- >             notifyDataSetChanged();
- >         } 
- >         public class RecyclerItemViewHolder extends RecyclerView.ViewHolder {
- >             private final TextView etPlaceTextView;
- >             private final TextView etNameTextView;
- >             private final TextView etXPTextView;
- >             private CardView mainLayout;
- >             public ImageView crossImage;
- >             public RecyclerItemViewHolder(final View parent) {
- >                 super(parent);
- >                 etPlaceTextView = (TextView) parent.findViewById(R.id.place_textView);
- >                 etNameTextView = (TextView) parent.findViewById(R.id.name_textView2);
- >                 etXPTextView = (TextView) parent.findViewById(R.id.xp_textView2);
- >                 crossImage = (ImageView) parent.findViewById(R.id.user_pic_imageView);
- >                 mainLayout = (CardView) parent.findViewById(R.id.user_CardView);
- >             }
+ >     public LeaderboardAdapter(ArrayList<User> myList) {
+ >         this.myList = myList;
+ >     }
+ >     
+ >     //Gets and returns the current recycleritemviewholder
+ >     public RecyclerItemViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
+ >         View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.user_row, parent, false);
+ >         RecyclerItemViewHolder holder = new RecyclerItemViewHolder(view);
+ >         return holder;
+ >     }
+ >
+ >     //Sets the UI Elements (text, img) to the respective user data
+ >     @Override
+ >     public void onBindViewHolder(RecyclerItemViewHolder holder, final int position) {
+ >         holder.etPlaceTextView.setText(Integer.toString(position+1));
+ >         holder.etNameTextView.setText(myList.get(position).getName().toString());
+ >         holder.etXPTextView.setText(myList.get(position).getXP().toString());
+ >         holder.crossImage.setImageResource(R.drawable.profile_pic1);
+ >         mLastPosition =position;
+ >     }
+ >
+ >     @Override
+ >     public int getItemCount() {
+ >         return(null != myList?myList.size():0);
+ >     }
+ >
+ >     //Notifies if user data list has changed
+ >     public void notifyData(ArrayList<User> myList) {
+ >         Log.d("notifyData ", myList.size() + "");
+ >         this.myList = myList;
+ >         notifyDataSetChanged();
+ >     } 
+ >
+ >     //Gets the UI elements of the user row
+ >     public class RecyclerItemViewHolder extends RecyclerView.ViewHolder {
+ >         private final TextView etPlaceTextView;
+ >         private final TextView etNameTextView;
+ >         private final TextView etXPTextView;
+ >         private CardView mainLayout;
+ >         public ImageView crossImage;
+ >         public RecyclerItemViewHolder(final View parent) {
+ >             super(parent);
+ >             etPlaceTextView = (TextView) parent.findViewById(R.id.place_textView);
+ >             etNameTextView = (TextView) parent.findViewById(R.id.name_textView2);
+ >             etXPTextView = (TextView) parent.findViewById(R.id.xp_textView2);
+ >             crossImage = (ImageView) parent.findViewById(R.id.user_pic_imageView);
+ >             mainLayout = (CardView) parent.findViewById(R.id.user_CardView);
  >         }
  >     }
+ > }
  > ```
  > </details>
  
