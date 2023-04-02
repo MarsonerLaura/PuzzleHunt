@@ -102,25 +102,43 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 ---
 
 <p>
-<h1>Development Process</h1>
-<details>
+ 
+<h1>Features & Code Snippets</h1>
 
-  <summary>Feature Ideas</summary>
- 
- 
- > <details> 
- >  <summary>Dialogues</summary>
- >  <br>
- >  <div align="center">
- >   
- >  <img src="" width="60%" height="auto">
- >  </div>
- > </details>
-  
+<details>
+ <summary>Collect Puzzle-Pieces</summary>
 </details>
 
- <details> 
- <summary>Leaderboard Code snippets</summary>
+<details>
+ <summary>Weather dependent Puzzle-Piece spawning</summary>
+</details>
+
+<details>
+ <summary>Friendship Boni</summary>
+</details>
+
+<details> 
+ <summary>Dealer</summary>
+</details>
+
+<details>
+ <summary>Shops</summary>
+</details>
+
+<details>
+ <summary>Trade Puzzle-Pieces</summary>
+</details>
+
+<details>
+ <summary>Trade Puzzle-Pieces</summary>
+</details>
+ 
+<details>
+ <summary>Leaderboard</summary>
+</details>
+
+<details>
+ <summary>Leaderboard Code Snippets</summary>
  
  > <details> 
  >  <summary>Leaderboard Activity class that collects all users and displays them sortet by XP Points</summary>
@@ -430,30 +448,89 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  > </androidx.constraintlayout.widget.ConstraintLayout>
  > ```
  > </details>
- </details>
- 
- <details>
-  <summary>Thesis</summary>
- <br>
-  
-  > <div align="center"> 
-  >  If you are interested in obtaining more information, you can download the final presentation and the bachelor's thesis using the links provided below. These resources contain valuable insights and details about the project.
-  > <br>
-  > <br>
-  >
-  > [Presentation.pdf](https://github.com/MarsonerLaura/KingdomOfMath/files/11094274/BA.Prasentation.pptx.pdf)
-  > <br>
-  >
-  > [Thesis.pdf](https://github.com/MarsonerLaura/KingdomOfMath/files/11094238/Thesis.pdf)
-  > <br>
-  > <br>
-  > Abstract
-  > <br>
-  > Serious games have shown promise as a tool to enhance the learning experience by generating higher intrinsic motivation than traditional learning methods. In this paper, a serious game called Kingdom of Math is developed that aims to teach mathematics to secondary school students using proven design principles. To this end, essential terms and concepts are described, and related work is analyzed. The requirements for such a serious game are outlined, and the approach and design decisions made are discussed and implemented. A user study is conducted to evaluate the developed game, and the results are presented and discussed. In addition, possible improvements and enhancements for this project in the future are suggested.
-  > </div>
-  > <br>
-> 
-   
 </details>
+ 
+<h1>Development Process</h1>
+<details>
+
+  <summary>Feature Brainstorming</summary>
+ 
+ 
+ > <details> 
+ >  <summary>My Contribution</summary>
+ >  <br>
+ >  <div align="center">
+ >   ![10DetailsGroup-01](https://user-images.githubusercontent.com/104200268/229362847-0351d3a5-9396-421b-81bf-f4edf67b0354.png)
+![10DetailsGroup-02](https://user-images.githubusercontent.com/104200268/229362853-41b7f7eb-fd15-40db-954a-2fb1e0cb2c9c.png)
+![10DetailsGroup-03](https://user-images.githubusercontent.com/104200268/229362856-9665ad66-43e2-4645-958b-6dc8d980cb98.png)
+![10DetailsGroup-04](https://user-images.githubusercontent.com/104200268/229362859-8a2d2c92-5919-42c7-9069-8bd7c64ccad8.png)
+![10DetailsGroup-05](https://user-images.githubusercontent.com/104200268/229362863-7bb368e2-4b34-4a97-abf0-ceb01ada85f0.png)
+![10DetailsGroup-06](https://user-images.githubusercontent.com/104200268/229362867-7839888e-246f-43d1-aeeb-557613c48a37.png)
+
+ >  <img src="" width="60%" height="auto">
+ >  </div>
+ > </details>
+  
+ > <details> 
+ >  <summary>Other Teammembers contribution</summary>
+ >  <br>
+ >  <div align="center">
+ >   ![10DetailsGroup-19](https://user-images.githubusercontent.com/104200268/229362879-b2533d0f-3ea5-4faf-bca7-c674e62d083e.png)
+![10DetailsGroup-07](https://user-images.githubusercontent.com/104200268/229362883-a996cbbb-b4ef-4b21-8909-368201c7bc8c.png)
+![10DetailsGroup-08](https://user-images.githubusercontent.com/104200268/229362884-d9450c14-cdf3-43df-8355-b992bbe00623.png)
+![10DetailsGroup-09](https://user-images.githubusercontent.com/104200268/229362885-988beed1-a202-4619-9b8a-1c71e62ca085.png)
+![10DetailsGroup-10](https://user-images.githubusercontent.com/104200268/229362886-d2b1269d-b02a-43dc-bf07-1fe8d2f19dfd.png)
+![10DetailsGroup-11](https://user-images.githubusercontent.com/104200268/229362889-03da8651-9582-4138-9533-e29206ececf7.png)
+![10DetailsGroup-12](https://user-images.githubusercontent.com/104200268/229362892-90eeaa2a-80f0-4f91-a6d6-69ffe2b2546c.png)
+![10DetailsGroup-13](https://user-images.githubusercontent.com/104200268/229362963-b7e874af-fae9-45ad-9eb6-7fb4488b9b92.png)
+![10DetailsGroup-18](https://user-images.githubusercontent.com/104200268/229362987-5779384d-8c8a-471d-8af5-17b71967614c.png)
+![10DetailsGroup-19](https://user-images.githubusercontent.com/104200268/229362989-1de4292a-624f-40fb-9c28-9c283472aa26.png)
+ ![10DetailsGroup-14](https://user-images.githubusercontent.com/104200268/229362974-21e9e99c-55a2-44f2-bcf8-45e7c718c0fd.png)
+![10DetailsGroup-15](https://user-images.githubusercontent.com/104200268/229362977-ed8066e0-d99c-4dfa-a551-c401def431eb.png)
+![10DetailsGroup-16](https://user-images.githubusercontent.com/104200268/229362980-7edfbb58-8c30-4fe5-a5ea-029596a6000c.png)
+![10DetailsGroup-17](https://user-images.githubusercontent.com/104200268/229362981-948895db-5e19-4dfb-9b38-2940a2fc567d.png)
+
+ >  <img src="" width="60%" height="auto">
+ >  </div>
+ > </details>
+  
+</details>
+<details>
+
+  <summary>Storyboard</summary>
+   ![storyboard-01](https://user-images.githubusercontent.com/104200268/229363034-37d75642-8925-4682-80d3-abd08b552739.png)
+![storyboard-07](https://user-images.githubusercontent.com/104200268/229363057-e2e9d929-9186-412f-9f83-f72552bd0eac.png)
+![storyboard-08](https://user-images.githubusercontent.com/104200268/229363059-e2786c9c-5f9c-4e3c-a975-081f5dda825e.png)
+![storyboard-09](https://user-images.githubusercontent.com/104200268/229363060-de10bc87-a998-49d5-897c-95a2dd958899.png)
+![storyboard-10](https://user-images.githubusercontent.com/104200268/229363061-1a2ce8e0-0cfe-47cf-826c-ec556dfb8078.png)
+![storyboard-11](https://user-images.githubusercontent.com/104200268/229363064-3da5df2f-dc49-4e45-bd81-ba7563e244cf.png)
+![storyboard-12](https://user-images.githubusercontent.com/104200268/229363066-951bebaf-9a87-48ee-992e-fd93880e8b40.png)
+![storyboard-13](https://user-images.githubusercontent.com/104200268/229363068-683eff2c-8bd1-4d18-80f8-ade098dee1da.png)
+![storyboard-14](https://user-images.githubusercontent.com/104200268/229363070-9ff4573d-f4c0-4788-ad0c-b764281622e1.png)
+![storyboard-15](https://user-images.githubusercontent.com/104200268/229363071-ce24073d-07c2-4e2e-b876-f5f92c58569c.png)
+![storyboard-16](https://user-images.githubusercontent.com/104200268/229363072-a1bfbb7c-db89-48ac-a5a0-d7a353d61d1c.png)
+![storyboard-17](https://user-images.githubusercontent.com/104200268/229363074-01cb53a0-b0b8-48bf-8d98-31b19eca372b.png)
+![storyboard-18](https://user-images.githubusercontent.com/104200268/229363075-d9defff0-d184-485b-a3c8-8ada57c74a97.png)
+![storyboard-19](https://user-images.githubusercontent.com/104200268/229363077-f0f51e71-ecbf-4ccb-b621-cb715a52d6d0.png)
+![storyboard-20](https://user-images.githubusercontent.com/104200268/229363079-a79b59b5-17e7-4ad2-b849-baf4e45b9bb6.png)
+![storyboard-21](https://user-images.githubusercontent.com/104200268/229363081-7e3b9afe-b2ca-41e2-a1e5-d0c5f30280ff.png)
+![storyboard-22](https://user-images.githubusercontent.com/104200268/229363082-3878b765-2a4d-40f4-94c0-5a21a840743a.png)
+![storyboard-23](https://user-images.githubusercontent.com/104200268/229363083-7716c688-ccf1-43c6-8742-703b8a35eeaf.png)
+![storyboard-24](https://user-images.githubusercontent.com/104200268/229363086-6b84fd5e-58ec-4ad6-9cd2-003a3e4818a6.png)
+![storyboard-25](https://user-images.githubusercontent.com/104200268/229363087-002b64ee-4805-4602-8a96-c6546321f55e.png)
+![storyboard-01](https://user-images.githubusercontent.com/104200268/229363088-d3b05454-a447-4841-b901-398ac13980cd.png)
+![storyboard-02](https://user-images.githubusercontent.com/104200268/229363089-7508d1d0-6f94-4fea-9fc6-61440713216a.png)
+![storyboard-03](https://user-images.githubusercontent.com/104200268/229363091-58a53810-7e83-49d5-99b9-b7744dad8f1e.png)
+![storyboard-04](https://user-images.githubusercontent.com/104200268/229363093-b0315115-11c0-4129-8c77-a2143de9b2ff.png)
+![storyboard-05](https://user-images.githubusercontent.com/104200268/229363096-04713ef1-2fb8-4222-b211-53aacc1476b4.png)
+![storyboard-06](https://user-images.githubusercontent.com/104200268/229363098-8860957f-b124-40fd-ab40-dd4f28c76524.png)
+
+
+</details>
+ 
+<details>
+ <summary>Presentation</summary>
+</details> 
+ 
  
 </p>
