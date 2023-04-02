@@ -456,20 +456,20 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
   <summary>Feature Brainstorming</summary>
  
  > <details> 
- >  <summary>My Contribution</summary>
+ >  <summary>My Contributions</summary>
  >  <br>
  >  <div align="center">
- >  
- >  <img src="https://user-images.githubusercontent.com/104200268/229362847-0351d3a5-9396-421b-81bf-f4edf67b0354.png" width="60%" height="auto">
+ >  One of the first ideas was to create Eventbased Puzzles. For example at valentines day or at christmas special puzzles are possible to get but only for a short duration of 1 or 2 weeks. The image below shows the first sketch of the idea and the pages.
+ >  <img src="https://user-images.githubusercontent.com/104200268/229362847-0351d3a5-9396-421b-81bf-f4edf67b0354.png" width="80%" height="auto">
  >  </div>
  >  <br>
  >  <div align="center">
- >  
- >  <img src="https://user-images.githubusercontent.com/104200268/229362853-41b7f7eb-fd15-40db-954a-2fb1e0cb2c9c.png" width="60%" height="auto">
+ >  This picture shows the idea of Eventbased Puzzles after polishing it.
+ >  <img src="https://user-images.githubusercontent.com/104200268/229362853-41b7f7eb-fd15-40db-954a-2fb1e0cb2c9c.png" width="80%" height="auto">
  >  </div>
  >  <br>
  >  <div align="center">
- >  
+ >  <br>
  >  <img src="https://user-images.githubusercontent.com/104200268/229362856-9665ad66-43e2-4645-958b-6dc8d980cb98.png" width="60%" height="auto">
  >  </div>
  >  <br>
@@ -489,7 +489,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  >  </div>
  > </details>
  > <details> 
- >  <summary>Other Teammembers contribution</summary>
+ >  <summary>Other Teammembers Contributions</summary>
  >  <br>
  >  <div align="center">
  >   ![10DetailsGroup-19](https://user-images.githubusercontent.com/104200268/229362879-b2533d0f-3ea5-4faf-bca7-c674e62d083e.png)
@@ -515,7 +515,13 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 <details>
 
   <summary>Storyboard</summary>
-   ![storyboard-01](https://user-images.githubusercontent.com/104200268/229363034-37d75642-8925-4682-80d3-abd08b552739.png)
+ ![storyboard-01](https://user-images.githubusercontent.com/104200268/229363088-d3b05454-a447-4841-b901-398ac13980cd.png)
+![storyboard-02](https://user-images.githubusercontent.com/104200268/229363089-7508d1d0-6f94-4fea-9fc6-61440713216a.png)
+![storyboard-03](https://user-images.githubusercontent.com/104200268/229363091-58a53810-7e83-49d5-99b9-b7744dad8f1e.png)
+![storyboard-04](https://user-images.githubusercontent.com/104200268/229363093-b0315115-11c0-4129-8c77-a2143de9b2ff.png)
+![storyboard-05](https://user-images.githubusercontent.com/104200268/229363096-04713ef1-2fb8-4222-b211-53aacc1476b4.png)
+![storyboard-06](https://user-images.githubusercontent.com/104200268/229363098-8860957f-b124-40fd-ab40-dd4f28c76524.png)
+
 ![storyboard-07](https://user-images.githubusercontent.com/104200268/229363057-e2e9d929-9186-412f-9f83-f72552bd0eac.png)
 ![storyboard-08](https://user-images.githubusercontent.com/104200268/229363059-e2786c9c-5f9c-4e3c-a975-081f5dda825e.png)
 ![storyboard-09](https://user-images.githubusercontent.com/104200268/229363060-de10bc87-a998-49d5-897c-95a2dd958899.png)
@@ -535,12 +541,6 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 ![storyboard-23](https://user-images.githubusercontent.com/104200268/229363083-7716c688-ccf1-43c6-8742-703b8a35eeaf.png)
 ![storyboard-24](https://user-images.githubusercontent.com/104200268/229363086-6b84fd5e-58ec-4ad6-9cd2-003a3e4818a6.png)
 ![storyboard-25](https://user-images.githubusercontent.com/104200268/229363087-002b64ee-4805-4602-8a96-c6546321f55e.png)
-![storyboard-01](https://user-images.githubusercontent.com/104200268/229363088-d3b05454-a447-4841-b901-398ac13980cd.png)
-![storyboard-02](https://user-images.githubusercontent.com/104200268/229363089-7508d1d0-6f94-4fea-9fc6-61440713216a.png)
-![storyboard-03](https://user-images.githubusercontent.com/104200268/229363091-58a53810-7e83-49d5-99b9-b7744dad8f1e.png)
-![storyboard-04](https://user-images.githubusercontent.com/104200268/229363093-b0315115-11c0-4129-8c77-a2143de9b2ff.png)
-![storyboard-05](https://user-images.githubusercontent.com/104200268/229363096-04713ef1-2fb8-4222-b211-53aacc1476b4.png)
-![storyboard-06](https://user-images.githubusercontent.com/104200268/229363098-8860957f-b124-40fd-ab40-dd4f28c76524.png)
 
 
 </details>
@@ -558,13 +558,25 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  >
  >  [pages.pdf](https://github.com/MarsonerLaura/PuzzleHunt/files/11132658/pages.pdf)
  >  </div>
+ >  <br>
  
 </details> 
   
  
 <details>
  <summary>Presentation</summary>
-</details> 
+ <br>
  
+ >  <div align="center">
+ >  To summarize the Features and used Technologies the final presentation is linked below:
+ >  <br>
+ >
+ >  [Präsentation Social Gaming.pdf](https://github.com/MarsonerLaura/PuzzleHunt/files/11132678/Prasentation.Social.Gaming.pdf)
+ > </div>
+ > <br>
+ 
+</details> 
+
+
  
 </p>
