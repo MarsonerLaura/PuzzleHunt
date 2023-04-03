@@ -591,14 +591,12 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  > <img src="https://user-images.githubusercontent.com/104200268/229363074-01cb53a0-b0b8-48bf-8d98-31b19eca372b.png" width="50%" height="auto">
  > <img src="https://user-images.githubusercontent.com/104200268/229363075-d9defff0-d184-485b-a3c8-8ada57c74a97.png" width="50%" height="auto">
  > <img src="https://user-images.githubusercontent.com/104200268/229363077-f0f51e71-ecbf-4ccb-b621-cb715a52d6d0.png" width="50%" height="auto">
-
-
-![storyboard-20](https://user-images.githubusercontent.com/104200268/229363079-a79b59b5-17e7-4ad2-b849-baf4e45b9bb6.png)
-![storyboard-21](https://user-images.githubusercontent.com/104200268/229363081-7e3b9afe-b2ca-41e2-a1e5-d0c5f30280ff.png)
-![storyboard-22](https://user-images.githubusercontent.com/104200268/229363082-3878b765-2a4d-40f4-94c0-5a21a840743a.png)
-![storyboard-23](https://user-images.githubusercontent.com/104200268/229363083-7716c688-ccf1-43c6-8742-703b8a35eeaf.png)
-![storyboard-24](https://user-images.githubusercontent.com/104200268/229363086-6b84fd5e-58ec-4ad6-9cd2-003a3e4818a6.png)
-![storyboard-25](https://user-images.githubusercontent.com/104200268/229363087-002b64ee-4805-4602-8a96-c6546321f55e.png)
+ > <img src="https://user-images.githubusercontent.com/104200268/229363079-a79b59b5-17e7-4ad2-b849-baf4e45b9bb6.png" width="50%" height="auto">
+ > <img src="https://user-images.githubusercontent.com/104200268/229363081-7e3b9afe-b2ca-41e2-a1e5-d0c5f30280ff.png" width="50%" height="auto">
+ > <img src="https://user-images.githubusercontent.com/104200268/229363082-3878b765-2a4d-40f4-94c0-5a21a840743a.png" width="50%" height="auto">
+ > <img src="https://user-images.githubusercontent.com/104200268/229363083-7716c688-ccf1-43c6-8742-703b8a35eeaf.png" width="50%" height="auto">
+ > <img src="https://user-images.githubusercontent.com/104200268/229363086-6b84fd5e-58ec-4ad6-9cd2-003a3e4818a6.png" width="50%" height="auto">
+ > <img src="https://user-images.githubusercontent.com/104200268/229363087-002b64ee-4805-4602-8a96-c6546321f55e.png" width="50%" height="auto">
  > </div>
  > <br>
 </details>
@@ -635,6 +633,4 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  
 </details> 
 
-
- 
 </p>
