@@ -454,6 +454,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 <details>
 
   <summary>Feature Brainstorming</summary>
+ 
  > At the beginning of the development process each of the teammembers had to sketch out and detail 3 potential features for the game. 
  
  > <details> 
@@ -489,8 +490,8 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  >  <img src="https://user-images.githubusercontent.com/104200268/229362867-7839888e-246f-43d1-aeeb-557613c48a37.png" width="90%" height="auto">
  >  </div>
  > </details>
- > <details> 
  
+ > <details> 
  >  <summary>Other Teammembers Contributions</summary>
  >  <br>
  >  <div align="center">
