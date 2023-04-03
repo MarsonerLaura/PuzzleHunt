@@ -454,7 +454,9 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 <details>
   <summary>Feature Brainstorming</summary>
  
+ >  <div align="center">
  > At the beginning of the development process each of the teammembers had to sketch out and detail 3 potential features for the game. 
+ > </div>
  
  > <details> 
  >  <summary>My Contributions</summary>
@@ -560,20 +562,40 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  >  <br>
  >  <img src="https://user-images.githubusercontent.com/104200268/229362981-948895db-5e19-4dfb-9b38-2940a2fc567d.png" width="60%" height="auto">
  >  </div>
+ >  <br>
  > </details>
- > <br>
 
 </details>
  
 <details>
-
   <summary>Storyboard</summary>
- ![storyboard-01](https://user-images.githubusercontent.com/104200268/229363088-d3b05454-a447-4841-b901-398ac13980cd.png)
-![storyboard-02](https://user-images.githubusercontent.com/104200268/229363089-7508d1d0-6f94-4fea-9fc6-61440713216a.png)
-![storyboard-03](https://user-images.githubusercontent.com/104200268/229363091-58a53810-7e83-49d5-99b9-b7744dad8f1e.png)
-![storyboard-04](https://user-images.githubusercontent.com/104200268/229363093-b0315115-11c0-4129-8c77-a2143de9b2ff.png)
-![storyboard-05](https://user-images.githubusercontent.com/104200268/229363096-04713ef1-2fb8-4222-b211-53aacc1476b4.png)
-![storyboard-06](https://user-images.githubusercontent.com/104200268/229363098-8860957f-b124-40fd-ab40-dd4f28c76524.png)
+  
+ > <div align="center">
+ > To show an example day of a user of the PuzzleHunt app a storyboard was created. This image shows the whole storyboard and the smaller ones show each step of the storyboard.
+ > <img src="https://user-images.githubusercontent.com/104200268/229363088-d3b05454-a447-4841-b901-398ac13980cd.png" width="90%" height="auto">
+ > <img src="https://user-images.githubusercontent.com/104200268/229363089-7508d1d0-6f94-4fea-9fc6-61440713216a.png" width="60%" height="auto">
+ > <img src="https://user-images.githubusercontent.com/104200268/229363091-58a53810-7e83-49d5-99b9-b7744dad8f1e.png" width="60%" height="auto">
+ > <img src="https://user-images.githubusercontent.com/104200268/229363093-b0315115-11c0-4129-8c77-a2143de9b2ff.png" width="60%" height="auto">
+ > <img src="https://user-images.githubusercontent.com/104200268/229363096-04713ef1-2fb8-4222-b211-53aacc1476b4.png" width="60%" height="auto">
+ > <img src="https://user-images.githubusercontent.com/104200268/229363098-8860957f-b124-40fd-ab40-dd4f28c76524.png" width="60%" height="auto">
+ > <img src="" width="60%" height="auto">
+ > <img src="" width="60%" height="auto">
+ > <img src="" width="60%" height="auto">
+ > <img src="" width="60%" height="auto">
+ > <img src="" width="60%" height="auto">
+ > <img src="" width="60%" height="auto">
+ > <img src="" width="60%" height="auto">
+ > <img src="" width="60%" height="auto">
+ > <img src="" width="60%" height="auto">
+ > <img src="" width="60%" height="auto">
+ > <img src="" width="60%" height="auto">
+ > <img src="" width="60%" height="auto">
+ > <img src="" width="60%" height="auto">
+![storyboard-02]()
+![storyboard-03]()
+![storyboard-04]()
+![storyboard-05]()
+![storyboard-06]()
 
 ![storyboard-07](https://user-images.githubusercontent.com/104200268/229363057-e2e9d929-9186-412f-9f83-f72552bd0eac.png)
 ![storyboard-08](https://user-images.githubusercontent.com/104200268/229363059-e2786c9c-5f9c-4e3c-a975-081f5dda825e.png)
@@ -594,8 +616,8 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 ![storyboard-23](https://user-images.githubusercontent.com/104200268/229363083-7716c688-ccf1-43c6-8742-703b8a35eeaf.png)
 ![storyboard-24](https://user-images.githubusercontent.com/104200268/229363086-6b84fd5e-58ec-4ad6-9cd2-003a3e4818a6.png)
 ![storyboard-25](https://user-images.githubusercontent.com/104200268/229363087-002b64ee-4805-4602-8a96-c6546321f55e.png)
-
-
+ > </div>
+ > <br>
 </details>
  
 <details>
