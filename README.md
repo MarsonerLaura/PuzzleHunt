@@ -454,6 +454,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 <details>
 
   <summary>Feature Brainstorming</summary>
+ > At the beginning of the development process each of the teammembers had to sketch out and detail 3 potential features for the game. 
  
  > <details> 
  >  <summary>My Contributions</summary>
@@ -489,29 +490,84 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  >  </div>
  > </details>
  > <details> 
+ 
  >  <summary>Other Teammembers Contributions</summary>
  >  <br>
  >  <div align="center">
- >   ![10DetailsGroup-19](https://user-images.githubusercontent.com/104200268/229362879-b2533d0f-3ea5-4faf-bca7-c674e62d083e.png)
-![10DetailsGroup-07](https://user-images.githubusercontent.com/104200268/229362883-a996cbbb-b4ef-4b21-8909-368201c7bc8c.png)
-![10DetailsGroup-08](https://user-images.githubusercontent.com/104200268/229362884-d9450c14-cdf3-43df-8355-b992bbe00623.png)
-![10DetailsGroup-09](https://user-images.githubusercontent.com/104200268/229362885-988beed1-a202-4619-9b8a-1c71e62ca085.png)
-![10DetailsGroup-10](https://user-images.githubusercontent.com/104200268/229362886-d2b1269d-b02a-43dc-bf07-1fe8d2f19dfd.png)
-![10DetailsGroup-11](https://user-images.githubusercontent.com/104200268/229362889-03da8651-9582-4138-9533-e29206ececf7.png)
-![10DetailsGroup-12](https://user-images.githubusercontent.com/104200268/229362892-90eeaa2a-80f0-4f91-a6d6-69ffe2b2546c.png)
-![10DetailsGroup-13](https://user-images.githubusercontent.com/104200268/229362963-b7e874af-fae9-45ad-9eb6-7fb4488b9b92.png)
-![10DetailsGroup-18](https://user-images.githubusercontent.com/104200268/229362987-5779384d-8c8a-471d-8af5-17b71967614c.png)
-![10DetailsGroup-19](https://user-images.githubusercontent.com/104200268/229362989-1de4292a-624f-40fb-9c28-9c283472aa26.png)
- ![10DetailsGroup-14](https://user-images.githubusercontent.com/104200268/229362974-21e9e99c-55a2-44f2-bcf8-45e7c718c0fd.png)
-![10DetailsGroup-15](https://user-images.githubusercontent.com/104200268/229362977-ed8066e0-d99c-4dfa-a551-c401def431eb.png)
-![10DetailsGroup-16](https://user-images.githubusercontent.com/104200268/229362980-7edfbb58-8c30-4fe5-a5ea-029596a6000c.png)
-![10DetailsGroup-17](https://user-images.githubusercontent.com/104200268/229362981-948895db-5e19-4dfb-9b38-2940a2fc567d.png)
-
- >  <img src="" width="60%" height="auto">
+ >  Puzzle Preferences
+ >  <img src="https://user-images.githubusercontent.com/104200268/229362879-b2533d0f-3ea5-4faf-bca7-c674e62d083e.png" width="90%" height="auto">
+ >  </div>
+ >  <br>
+ >  <div align="center">
+ >  Collect Puzzle-Pieces outdoor
+ >  <img src="https://user-images.githubusercontent.com/104200268/229362883-a996cbbb-b4ef-4b21-8909-368201c7bc8c.png" width="90%" height="auto">
+ >  </div>
+ >  <br>
+ >  <div align="center">
+ >  Lootboxes
+ >  <img src="https://user-images.githubusercontent.com/104200268/229362884-d9450c14-cdf3-43df-8355-b992bbe00623.png" width="90%" height="auto">
+ >  </div>
+ >  <br>
+ >  <div align="center">
+ >  Trade Puzzle-Pieces
+ >  <img src="https://user-images.githubusercontent.com/104200268/229362885-988beed1-a202-4619-9b8a-1c71e62ca085.png" width="90%" height="auto">
+ >  </div>
+ >  <br>
+ >  <div align="center">
+ >  Create Puzzles
+ >  <img src="" width="90%" height="auto">
+ >  </div>
+ >  <br>
+ >  <div align="center">
+ >  Solve Puzzles
+ >  <img src="https://user-images.githubusercontent.com/104200268/229362886-d2b1269d-b02a-43dc-bf07-1fe8d2f19dfd.png" width="90%" height="auto">
+ >  </div>
+ >  <br>
+ >  <div align="center">
+ >  Friendship Level/XP
+ >  <img src="https://user-images.githubusercontent.com/104200268/229362889-03da8651-9582-4138-9533-e29206ececf7.png" width="90%" height="auto">
+ >  </div>
+ >  <br>
+ >  <div align="center">
+ >  Use POI as Images for Puzzles
+ >  <img src="https://user-images.githubusercontent.com/104200268/229362892-90eeaa2a-80f0-4f91-a6d6-69ffe2b2546c.png" width="90%" height="auto">
+ >  </div>
+ >  <br>
+ >  <div align="center">
+ >  
+ >  <img src="https://user-images.githubusercontent.com/104200268/229362963-b7e874af-fae9-45ad-9eb6-7fb4488b9b92.png" width="90%" height="auto">
+ >  </div>
+ >  <br>
+ >  <div align="center">
+ >  Leaderboard
+ >  <img src="https://user-images.githubusercontent.com/104200268/229362987-5779384d-8c8a-471d-8af5-17b71967614c.png" width="90%" height="auto">
+ >  </div>
+ >  <br>
+ >  <div align="center">
+ >  Rewards based on Ranking
+ >  <img src="https://user-images.githubusercontent.com/104200268/229362989-1de4292a-624f-40fb-9c28-9c283472aa26.png" width="90%" height="auto">
+ >  </div>
+ >  <br>
+ >  <div align="center">
+ >  Dealer
+ >  <img src="https://user-images.githubusercontent.com/104200268/229362974-21e9e99c-55a2-44f2-bcf8-45e7c718c0fd.png" width="90%" height="auto">
+ >  </div>
+ >  <br>
+ >  <div align="center">
+ >  Schnitzeljagt
+ >  <img src="https://user-images.githubusercontent.com/104200268/229362977-ed8066e0-d99c-4dfa-a551-c401def431eb.png" width="90%" height="auto">
+ >  </div>
+ >  <br>
+ >  <div align="center">
+ >  Puzzle of the week
+ >  <img src="https://user-images.githubusercontent.com/104200268/229362980-7edfbb58-8c30-4fe5-a5ea-029596a6000c.png" width="90%" height="auto">
+ >  </div>
+ >  <br>
+ >  <div align="center">
+ >  Finishing Puzzles
+ >  <img src="https://user-images.githubusercontent.com/104200268/229362981-948895db-5e19-4dfb-9b38-2940a2fc567d.png" width="90%" height="auto">
  >  </div>
  > </details>
-  
-</details>
 <details>
 
   <summary>Storyboard</summary>
