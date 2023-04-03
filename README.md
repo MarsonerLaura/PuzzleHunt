@@ -102,7 +102,10 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 ---
 
 <p>
- 
+<h1>Code Snippets</h1>
+
+<!--
+
 <h1>Feature Descriptions & Code Snippets</h1>
 
 <details>
@@ -136,6 +139,8 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 <details>
  <summary>Leaderboard</summary>
 </details>
+
+-->
 
 <details>
  <summary>Leaderboard Code Snippets</summary>
