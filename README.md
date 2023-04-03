@@ -452,7 +452,6 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  
 <h1>Development Process</h1>
 <details>
-
   <summary>Feature Brainstorming</summary>
  
  > At the beginning of the development process each of the teammembers had to sketch out and detail 3 potential features for the game. 
@@ -496,22 +495,22 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  >  <br>
  >  <div align="center">
  >  Puzzle Preferences
- >  <img src="https://user-images.githubusercontent.com/104200268/229362879-b2533d0f-3ea5-4faf-bca7-c674e62d083e.png" width="90%" height="auto">
- >  </div>
- >  <br>
- >  <div align="center">
- >  Collect Puzzle-Pieces outdoor
  >  <img src="https://user-images.githubusercontent.com/104200268/229362883-a996cbbb-b4ef-4b21-8909-368201c7bc8c.png" width="90%" height="auto">
  >  </div>
  >  <br>
  >  <div align="center">
- >  Lootboxes
+ >  Collect Puzzle-Pieces outdoor
  >  <img src="https://user-images.githubusercontent.com/104200268/229362884-d9450c14-cdf3-43df-8355-b992bbe00623.png" width="90%" height="auto">
  >  </div>
  >  <br>
  >  <div align="center">
- >  Trade Puzzle-Pieces
+ >  Lootboxes
  >  <img src="https://user-images.githubusercontent.com/104200268/229362885-988beed1-a202-4619-9b8a-1c71e62ca085.png" width="90%" height="auto">
+ >  </div>
+ >  <br>
+ >  <div align="center">
+ >  Trade Puzzle-Pieces
+ >  <img src="" width="90%" height="auto">
  >  </div>
  >  <br>
  >  <div align="center">
@@ -541,7 +540,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  >  <br>
  >  <div align="center">
  >  Leaderboard
- >  <img src="https://user-images.githubusercontent.com/104200268/229362987-5779384d-8c8a-471d-8af5-17b71967614c.png" width="90%" height="auto">
+ >  <img src="https://user-images.githubusercontent.com/104200268/229362879-b2533d0f-3ea5-4faf-bca7-c674e62d083e.png" width="90%" height="auto">
  >  </div>
  >  <br>
  >  <div align="center">
@@ -569,6 +568,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  >  <img src="https://user-images.githubusercontent.com/104200268/229362981-948895db-5e19-4dfb-9b38-2940a2fc567d.png" width="90%" height="auto">
  >  </div>
  > </details>
+ https://user-images.githubusercontent.com/104200268/229362987-5779384d-8c8a-471d-8af5-17b71967614c.png
 <details>
 
   <summary>Storyboard</summary>
