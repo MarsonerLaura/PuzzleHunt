@@ -572,44 +572,27 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
   
  > <div align="center">
  > To show an example day of a user of the PuzzleHunt app a storyboard was created. This image shows the whole storyboard and the smaller ones show each step of the storyboard.
- > <img src="https://user-images.githubusercontent.com/104200268/229363088-d3b05454-a447-4841-b901-398ac13980cd.png" width="90%" height="auto">
- > <img src="https://user-images.githubusercontent.com/104200268/229363089-7508d1d0-6f94-4fea-9fc6-61440713216a.png" width="60%" height="auto">
- > <img src="https://user-images.githubusercontent.com/104200268/229363091-58a53810-7e83-49d5-99b9-b7744dad8f1e.png" width="60%" height="auto">
- > <img src="https://user-images.githubusercontent.com/104200268/229363093-b0315115-11c0-4129-8c77-a2143de9b2ff.png" width="60%" height="auto">
- > <img src="https://user-images.githubusercontent.com/104200268/229363096-04713ef1-2fb8-4222-b211-53aacc1476b4.png" width="60%" height="auto">
- > <img src="https://user-images.githubusercontent.com/104200268/229363098-8860957f-b124-40fd-ab40-dd4f28c76524.png" width="60%" height="auto">
- > <img src="" width="60%" height="auto">
- > <img src="" width="60%" height="auto">
- > <img src="" width="60%" height="auto">
- > <img src="" width="60%" height="auto">
- > <img src="" width="60%" height="auto">
- > <img src="" width="60%" height="auto">
- > <img src="" width="60%" height="auto">
- > <img src="" width="60%" height="auto">
- > <img src="" width="60%" height="auto">
- > <img src="" width="60%" height="auto">
- > <img src="" width="60%" height="auto">
- > <img src="" width="60%" height="auto">
- > <img src="" width="60%" height="auto">
-![storyboard-02]()
-![storyboard-03]()
-![storyboard-04]()
-![storyboard-05]()
-![storyboard-06]()
+ > <img src="https://user-images.githubusercontent.com/104200268/229363088-d3b05454-a447-4841-b901-398ac13980cd.png" width="100%" height="auto">
+ > <img src="https://user-images.githubusercontent.com/104200268/229363089-7508d1d0-6f94-4fea-9fc6-61440713216a.png" width="50%" height="auto">
+ > <img src="https://user-images.githubusercontent.com/104200268/229363091-58a53810-7e83-49d5-99b9-b7744dad8f1e.png" width="50%" height="auto">
+ > <img src="https://user-images.githubusercontent.com/104200268/229363093-b0315115-11c0-4129-8c77-a2143de9b2ff.png" width="50%" height="auto">
+ > <img src="https://user-images.githubusercontent.com/104200268/229363096-04713ef1-2fb8-4222-b211-53aacc1476b4.png" width="50%" height="auto">
+ > <img src="https://user-images.githubusercontent.com/104200268/229363098-8860957f-b124-40fd-ab40-dd4f28c76524.png" width="50%" height="auto">
+ > <img src="https://user-images.githubusercontent.com/104200268/229363057-e2e9d929-9186-412f-9f83-f72552bd0eac.png" width="50%" height="auto">
+ > <img src="https://user-images.githubusercontent.com/104200268/229363059-e2786c9c-5f9c-4e3c-a975-081f5dda825e.png" width="50%" height="auto">
+ > <img src="https://user-images.githubusercontent.com/104200268/229363060-de10bc87-a998-49d5-897c-95a2dd958899.png" width="50%" height="auto">
+ > <img src="https://user-images.githubusercontent.com/104200268/229363061-1a2ce8e0-0cfe-47cf-826c-ec556dfb8078.png" width="50%" height="auto">
+ > <img src="https://user-images.githubusercontent.com/104200268/229363064-3da5df2f-dc49-4e45-bd81-ba7563e244cf.png" width="50%" height="auto">
+ > <img src="https://user-images.githubusercontent.com/104200268/229363066-951bebaf-9a87-48ee-992e-fd93880e8b40.png" width="50%" height="auto">
+ > <img src="https://user-images.githubusercontent.com/104200268/229363068-683eff2c-8bd1-4d18-80f8-ade098dee1da.png" width="50%" height="auto">
+ > <img src="https://user-images.githubusercontent.com/104200268/229363070-9ff4573d-f4c0-4788-ad0c-b764281622e1.png" width="50%" height="auto">
+ > <img src="https://user-images.githubusercontent.com/104200268/229363071-ce24073d-07c2-4e2e-b876-f5f92c58569c.png" width="50%" height="auto">
+ > <img src="https://user-images.githubusercontent.com/104200268/229363072-a1bfbb7c-db89-48ac-a5a0-d7a353d61d1c.png" width="50%" height="auto">
+ > <img src="https://user-images.githubusercontent.com/104200268/229363074-01cb53a0-b0b8-48bf-8d98-31b19eca372b.png" width="50%" height="auto">
+ > <img src="https://user-images.githubusercontent.com/104200268/229363075-d9defff0-d184-485b-a3c8-8ada57c74a97.png" width="50%" height="auto">
+ > <img src="https://user-images.githubusercontent.com/104200268/229363077-f0f51e71-ecbf-4ccb-b621-cb715a52d6d0.png" width="50%" height="auto">
 
-![storyboard-07](https://user-images.githubusercontent.com/104200268/229363057-e2e9d929-9186-412f-9f83-f72552bd0eac.png)
-![storyboard-08](https://user-images.githubusercontent.com/104200268/229363059-e2786c9c-5f9c-4e3c-a975-081f5dda825e.png)
-![storyboard-09](https://user-images.githubusercontent.com/104200268/229363060-de10bc87-a998-49d5-897c-95a2dd958899.png)
-![storyboard-10](https://user-images.githubusercontent.com/104200268/229363061-1a2ce8e0-0cfe-47cf-826c-ec556dfb8078.png)
-![storyboard-11](https://user-images.githubusercontent.com/104200268/229363064-3da5df2f-dc49-4e45-bd81-ba7563e244cf.png)
-![storyboard-12](https://user-images.githubusercontent.com/104200268/229363066-951bebaf-9a87-48ee-992e-fd93880e8b40.png)
-![storyboard-13](https://user-images.githubusercontent.com/104200268/229363068-683eff2c-8bd1-4d18-80f8-ade098dee1da.png)
-![storyboard-14](https://user-images.githubusercontent.com/104200268/229363070-9ff4573d-f4c0-4788-ad0c-b764281622e1.png)
-![storyboard-15](https://user-images.githubusercontent.com/104200268/229363071-ce24073d-07c2-4e2e-b876-f5f92c58569c.png)
-![storyboard-16](https://user-images.githubusercontent.com/104200268/229363072-a1bfbb7c-db89-48ac-a5a0-d7a353d61d1c.png)
-![storyboard-17](https://user-images.githubusercontent.com/104200268/229363074-01cb53a0-b0b8-48bf-8d98-31b19eca372b.png)
-![storyboard-18](https://user-images.githubusercontent.com/104200268/229363075-d9defff0-d184-485b-a3c8-8ada57c74a97.png)
-![storyboard-19](https://user-images.githubusercontent.com/104200268/229363077-f0f51e71-ecbf-4ccb-b621-cb715a52d6d0.png)
+
 ![storyboard-20](https://user-images.githubusercontent.com/104200268/229363079-a79b59b5-17e7-4ad2-b849-baf4e45b9bb6.png)
 ![storyboard-21](https://user-images.githubusercontent.com/104200268/229363081-7e3b9afe-b2ca-41e2-a1e5-d0c5f30280ff.png)
 ![storyboard-22](https://user-images.githubusercontent.com/104200268/229363082-3878b765-2a4d-40f4-94c0-5a21a840743a.png)
