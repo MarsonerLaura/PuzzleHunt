@@ -531,7 +531,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  >  <br>
  >  <div align="center">
  >  Use POI as Images for Puzzles
- >  <img src="https://user-images.githubusercontent.com/104200268/229362987-5779384d-8c8a-471d-8af5-17b71967614c.png" width="90%" height="auto">
+ >  <img src="https://user-images.githubusercontent.com/104200268/229362987-5779384d-8c8a-471d-8af5-17b71967614c.png" width="60%" height="auto">
  >  </div>
  >  <br>
  >  <div align="center">
@@ -541,6 +541,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  >  <br>
  >  <div align="center">
  >  Dealer
+ >  <br>
  >  <img src="https://user-images.githubusercontent.com/104200268/229362974-21e9e99c-55a2-44f2-bcf8-45e7c718c0fd.png" width="90%" height="auto">
  >  </div>
  >  <br>
@@ -556,10 +557,13 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  >  <br>
  >  <div align="center">
  >  Finishing Puzzles
+ >  <br>
  >  <img src="https://user-images.githubusercontent.com/104200268/229362981-948895db-5e19-4dfb-9b38-2940a2fc567d.png" width="60%" height="auto">
  >  </div>
  > </details>
- <img src="https://user-images.githubusercontent.com/104200268/229362989-1de4292a-624f-40fb-9c28-9c283472aa26.png" width="90%" height="auto">
+ > <br>
+
+</details>
  
 <details>
 
