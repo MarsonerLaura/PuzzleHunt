@@ -460,32 +460,32 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  >  <br>
  >  <div align="center">
  >  One of the first ideas was to create Eventbased Puzzles. For example at valentines day or at christmas special puzzles are possible to get but only for a short duration of 1 or 2 weeks. The image below shows the first sketch of the idea and the pages.
- >  <img src="https://user-images.githubusercontent.com/104200268/229362847-0351d3a5-9396-421b-81bf-f4edf67b0354.png" width="80%" height="auto">
+ >  <img src="https://user-images.githubusercontent.com/104200268/229362847-0351d3a5-9396-421b-81bf-f4edf67b0354.png" width="90%" height="auto">
  >  </div>
  >  <br>
  >  <div align="center">
  >  This picture shows the idea of Eventbased Puzzles after polishing it.
- >  <img src="https://user-images.githubusercontent.com/104200268/229362853-41b7f7eb-fd15-40db-954a-2fb1e0cb2c9c.png" width="80%" height="auto">
+ >  <img src="https://user-images.githubusercontent.com/104200268/229362853-41b7f7eb-fd15-40db-954a-2fb1e0cb2c9c.png" width="90%" height="auto">
  >  </div>
  >  <br>
  >  <div align="center">
- >  <br>
- >  <img src="https://user-images.githubusercontent.com/104200268/229362856-9665ad66-43e2-4645-958b-6dc8d980cb98.png" width="60%" height="auto">
+ >  Another idea was to let the current weather influence the type of Puzzle-Pieces that are spawned. This shows the initial sketch of the different weather types.
+ >  <img src="https://user-images.githubusercontent.com/104200268/229362856-9665ad66-43e2-4645-958b-6dc8d980cb98.png" width="90%" height="auto">
  >  </div>
  >  <br>
  >  <div align="center">
- >  
- >  <img src="https://user-images.githubusercontent.com/104200268/229362859-8a2d2c92-5919-42c7-9069-8bd7c64ccad8.png" width="60%" height="auto">
+ >  This image shows the polished sketch of Weatherbased Puzzle-Piece spawning.
+ >  <img src="https://user-images.githubusercontent.com/104200268/229362859-8a2d2c92-5919-42c7-9069-8bd7c64ccad8.png" width="90%" height="auto">
  >  </div>
  >  <br>
  >  <div align="center">
- >  
- >  <img src="https://user-images.githubusercontent.com/104200268/229362863-7bb368e2-4b34-4a97-abf0-ceb01ada85f0.png" width="60%" height="auto">
+ >  This picture shows the initial sketch of Puzzle-Pieces Shops where players can buy or exchange Puzzle-Pieces.
+ >  <img src="https://user-images.githubusercontent.com/104200268/229362863-7bb368e2-4b34-4a97-abf0-ceb01ada85f0.png" width="90%" height="auto">
  >  </div>
  >  <br>
  >  <div align="center">
- >  
- >  <img src="https://user-images.githubusercontent.com/104200268/229362867-7839888e-246f-43d1-aeeb-557613c48a37.png" width="60%" height="auto">
+ >  This image shows the polished sketch of the Puzzle-Pieces Shop.
+ >  <img src="https://user-images.githubusercontent.com/104200268/229362867-7839888e-246f-43d1-aeeb-557613c48a37.png" width="90%" height="auto">
  >  </div>
  > </details>
  > <details> 
@@ -568,7 +568,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  <br>
  
  >  <div align="center">
- >  To summarize the Features and used Technologies the final presentation is linked below:
+ >  To summarize the features and technologies used the final presentation is linked below:
  >  <br>
  >
  >  [Präsentation Social Gaming.pdf](https://github.com/MarsonerLaura/PuzzleHunt/files/11132678/Prasentation.Social.Gaming.pdf)
