@@ -102,7 +102,8 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 ---
 
 <p>
-<h1>Feature Descriptions & Code Snippets</h1>
+ <h1>Additional Information</h1>
+<h2>Feature Descriptions & Code Snippets</h2>
 
 
 <details>
@@ -577,7 +578,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  > </details>
 </details>
  
-<h1>Development Process</h1>
+<h2>Development Process</h2>
 <details>
   <summary>Feature Brainstorming</summary>
  <br>
