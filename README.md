@@ -189,7 +189,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 
 <details>
  <summary>Remove and Add Friends</summary>
-  <br>!
+  <br>
  
   > <div align="center"> 
   > To manage their friend list, players can easily remove a friend by accessing their profile and clicking on the "remove" button.
@@ -268,9 +268,21 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
   <br>
  
   > <div align="center"> 
-  > 
+  > Players can stumble upon a dealer located at less busy spots on the map by simply clicking on it and confirming. These dealers offer players the chance to test their luck and gamble with their puzzle pieces, adding a thrilling element to the game.
  ><br>
-  > <img src="" width="80%" height="auto">
+  > <img src="https://user-images.githubusercontent.com/104200268/230610570-c641ad37-f63e-481c-8a4b-63680ae7c447.jpg" width="70%" height="auto">
+  > </div>
+  > <br>
+  > <div align="center"> 
+  > The player is given the option to choose which puzzle piece they want to use for the deal.
+ ><br>
+  > <img src="https://user-images.githubusercontent.com/104200268/230610585-772462e4-21fb-4d88-adbb-58ad0aae6afa.jpg" width="70%" height="auto">
+  > </div>
+  > <br>
+  > <div align="center"> 
+  > When the player clicks the "Play" button, they either receive a reward of two new puzzle pieces upon winning, or the selected puzzle piece is removed from their inventory upon losing.
+ ><br>
+  > <img src="https://user-images.githubusercontent.com/104200268/230610591-3bf05687-41ab-4e3a-a464-bfd7937ddd68.jpg" width="70%" height="auto">
   > </div>
   > <br>
 </details>
