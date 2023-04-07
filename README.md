@@ -640,39 +640,39 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  <br>
  
  >  <div align="center">
- > At the beginning of the development process each of the teammembers had to sketch out and detail 3 potential features for the game. 
+ > During the initial stages of development, each member of the team was tasked with brainstorming and designing three potential features for the game. This allowed for a diverse range of ideas to be generated and ensured that the best ideas were selected for implementation.
  > </div>
  
  > <details> 
  >  <summary>My Contributions</summary>
  >  <br>
  >  <div align="center">
- >  One of the first ideas was to create Eventbased Puzzles. For example at valentines day or at christmas special puzzles are possible to get but only for a short duration of 1 or 2 weeks. The image below shows the first sketch of the idea and the pages.
+ >  One of the initial concepts was to introduce event-based puzzles. For instance, during holidays like Valentine's Day or Christmas, players can acquire special puzzles for a limited period of one or two weeks. Below, you can see the first sketch of this idea and the accompanying pages.
  >  <img src="https://user-images.githubusercontent.com/104200268/229362847-0351d3a5-9396-421b-81bf-f4edf67b0354.png" width="90%" height="auto">
  >  </div>
  >  <br>
  >  <div align="center">
- >  This picture shows the idea of Eventbased Puzzles after polishing it.
+ >  The image below showcases the refined concept of Eventbased Puzzles after it was further developed and polished.
  >  <img src="https://user-images.githubusercontent.com/104200268/229362853-41b7f7eb-fd15-40db-954a-2fb1e0cb2c9c.png" width="90%" height="auto">
  >  </div>
  >  <br>
  >  <div align="center">
- >  Another idea was to let the current weather influence the type of Puzzle-Pieces that are spawned. This shows the initial sketch of the different weather types.
+ >  This is the initial sketch of the feature that allows the current weather to influence the type of puzzle pieces that are spawned. It includes the different weather types and how they affect the puzzle pieces.
  >  <img src="https://user-images.githubusercontent.com/104200268/229362856-9665ad66-43e2-4645-958b-6dc8d980cb98.png" width="90%" height="auto">
  >  </div>
  >  <br>
  >  <div align="center">
- >  This image shows the polished sketch of Weatherbased Puzzle-Piece spawning.
+ >  The following image depicts the polished concept for Weather-based Puzzle-Piece Spawning.
  >  <img src="https://user-images.githubusercontent.com/104200268/229362859-8a2d2c92-5919-42c7-9069-8bd7c64ccad8.png" width="90%" height="auto">
  >  </div>
  >  <br>
  >  <div align="center">
- >  This picture shows the initial sketch of Puzzle-Pieces Shops where players can buy or exchange Puzzle-Pieces.
+ >  In this image, you can see the first draft of the Puzzle-Piece Shops idea, where players can purchase their Puzzle-Pieces.
  >  <img src="https://user-images.githubusercontent.com/104200268/229362863-7bb368e2-4b34-4a97-abf0-ceb01ada85f0.png" width="90%" height="auto">
  >  </div>
  >  <br>
  >  <div align="center">
- >  This image shows the polished sketch of the Puzzle-Pieces Shop.
+ >  The following image depicts a more refined version of the Puzzle-Pieces Shop concept, where players can browse and purchase Puzzle-Pieces.
  >  <img src="https://user-images.githubusercontent.com/104200268/229362867-7839888e-246f-43d1-aeeb-557613c48a37.png" width="90%" height="auto">
  >  </div>
  > </details>
@@ -757,7 +757,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
    <br>
  
  > <div align="center">
- > To show an example day of a user of the PuzzleHunt app a storyboard was created. This image shows the whole storyboard and the smaller ones show each step of the storyboard.
+ > This storyboard illustrates an example day of a PuzzleHunt app user. The main image displays the entire sequence of events, while the smaller images depict each individual step in the story.
  > <img src="https://user-images.githubusercontent.com/104200268/229363088-d3b05454-a447-4841-b901-398ac13980cd.png" width="100%" height="auto">
  > <img src="https://user-images.githubusercontent.com/104200268/229363089-7508d1d0-6f94-4fea-9fc6-61440713216a.png" width="50%" height="auto">
  > <img src="https://user-images.githubusercontent.com/104200268/229363091-58a53810-7e83-49d5-99b9-b7744dad8f1e.png" width="50%" height="auto">
@@ -792,11 +792,11 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  <br>
 
  >  <div align="center">
- >  To have a better overview of the different pages, how they look like and how they are connected I created a diagram that displays everything.
+ >  This diagram provides an overview of the different pages of the PuzzleHunt app, their design, and how they are connected.
  >  <br>
  >  <img src="https://user-images.githubusercontent.com/104200268/229363879-1448290e-1691-4bcb-9614-39bd7111cdf8.jpg" width="70%" height="auto">
  >  <br>
- >  As the image is pretty small and it needs to be zoomed in to see the details, it is linked as a PDF to download below:
+ >  Due to the large amount of details in the image, a PDF version has been created to allow for better visibility and zooming. You can download the PDF by clicking the link below.
  >
  >  [pages.pdf](https://github.com/MarsonerLaura/PuzzleHunt/files/11132658/pages.pdf)
  >  </div>
@@ -810,7 +810,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  <br>
  
  >  <div align="center">
- >  To summarize the features and technologies used the final presentation is linked below:
+ >  To provide an overview of the features and technologies used in our PuzzleHunt app, I have linked the final presentation below for your reference.
  >  <br>
  >
  >  [Präsentation Social Gaming.pdf](https://github.com/MarsonerLaura/PuzzleHunt/files/11132678/Prasentation.Social.Gaming.pdf)
