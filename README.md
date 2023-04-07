@@ -205,10 +205,16 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
   <br>
 
   > <div align="center"> 
-  > Players can also send their friends gifts to increase xp. But only if the friendship level is high enough.
+  > In the game, players have the option to send gifts to their friends to increase their experience points (XP). 
  ><br>
-  > <img src="https://user-images.githubusercontent.com/104200268/230608825-86b921e8-b9df-4c5b-add4-3cbc45046a7c.jpg" width="80%" height="auto">
-  > <img src="https://user-images.githubusercontent.com/104200268/230608816-1f78a3d6-1ede-42d5-b0cf-79dbeffbf622.jpg" width="80%" height="auto">
+  > <img src="https://user-images.githubusercontent.com/104200268/230608825-86b921e8-b9df-4c5b-add4-3cbc45046a7c.jpg" width="90%" height="auto">
+  > <img src="https://user-images.githubusercontent.com/104200268/230608816-1f78a3d6-1ede-42d5-b0cf-79dbeffbf622.jpg" width="90%" height="auto">
+  > </div>
+  > <br>
+ > <div align="center"> 
+  > However, players can only send gifts to friends with whom they have a high enough friendship level. This feature encourages players to build and maintain relationships with other players within the game to reap the benefits of increased XP.
+ ><br>
+  > <img src="https://user-images.githubusercontent.com/104200268/230608816-1f78a3d6-1ede-42d5-b0cf-79dbeffbf622.jpg" width="90%" height="auto">
   > </div>
   > <br>
 </details>
