@@ -111,7 +111,8 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  
  > <div align="center"> 
   > The app includes a registration and login system that allows users to enter their email and nickname and select a password. This straightforward process makes it easy for users to sign up and access the app's features. The user interface is designed to be user-friendly and easy to navigate, ensuring that users can log in and register without any hassle. The image below showcases the sleek design of the app, highlighting its modern look and functionality.
-  > <img src="https://user-images.githubusercontent.com/104200268/230565687-e25fc397-5e5d-4ecb-a2e3-c8ef4d3fb232.jpg" width="80%" height="auto">
+ > <br>
+  > <img src="https://user-images.githubusercontent.com/104200268/230565687-e25fc397-5e5d-4ecb-a2e3-c8ef4d3fb232.jpg" width="60%" height="auto">
   > </div>
   > <br>
 </details>
@@ -122,17 +123,10 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  
   > <div align="center"> 
   > Players can collect puzzle pieces displayed on a map by exploring the real world, similar to Pokemon Go. The type of puzzle pieces that spawn is determined by the current weather condition. For example, cloudy weather will cause more border pieces to appear. Additionally, custom text based on the current weather is displayed. This feature was made possible through the use of OpenWeatherAPI, which seamlessly integrated real-time weather data into the app.
-  > <img src="https://user-images.githubusercontent.com/104200268/230565687-e25fc397-5e5d-4ecb-a2e3-c8ef4d3fb232.jpg" width="80%" height="auto">
+ ><br>
+  > <img src="https://user-images.githubusercontent.com/104200268/230571106-31b7c858-c5f9-4d8d-8efd-fe399be003a5.jpg" width="80%" height="auto">
   > </div>
   > <br>
- ![image5](https://user-images.githubusercontent.com/104200268/230566534-25550303-45bb-40e0-a67b-4b2f6c7fa1c4.jpg)
-![image1](https://user-images.githubusercontent.com/104200268/230566539-325f2016-7eb4-4405-a549-f0ce7c9700c4.png)
-![image3](https://user-images.githubusercontent.com/104200268/230566545-c05b846f-b7a6-4d62-b0c4-66db13fcb42d.jpg)
-
- ![Screenshot_20210710-135137_PuzzleHunt](https://user-images.githubusercontent.com/104200268/230566314-58fee664-f628-4b4a-86b1-6d63ab192cf7.jpg)
-![Screenshot_20210709-175038_PuzzleHunt](https://user-images.githubusercontent.com/104200268/230566320-6c6a495f-f6a3-497c-86b7-1f1e48bbc924.jpg)
-![Screenshot_20210709-175052_PuzzleHunt](https://user-images.githubusercontent.com/104200268/230566324-c38263ea-ed03-43af-8f3e-d8c2a8a8757d.jpg)
-![Screenshot_20210710-081143_PuzzleHunt](https://user-images.githubusercontent.com/104200268/230566331-c007b852-d641-4e04-93b9-f97aff4db0c3.jpg)
 
 </details>
 
