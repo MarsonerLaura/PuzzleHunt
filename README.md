@@ -188,13 +188,19 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 </details>
 
 <details>
- <summary>Add and Remove Friends</summary>
-  <br>
+ <summary>Remove and Add Friends</summary>
+  <br>!
  
   > <div align="center"> 
-  > 
+  > To manage their friend list, players can easily remove a friend by accessing their profile and clicking on the "remove" button.
  ><br>
-  > <img src="https://user-images.githubusercontent.com/104200268/230608352-0a7b2f49-ebe8-4e3c-9322-b26420f52c77.jpg" width="80%" height="auto">
+  > <img src="https://user-images.githubusercontent.com/104200268/230609615-8c7953f7-460f-46aa-90f9-bfeefbeb282f.jpg" width="90%" height="auto">
+  > </div>
+  > <br>
+  > <div align="center"> 
+  > To expand their network of connections, players can easily add friends by accessing the friendlist and clicking the "Add Friends" button. From there, they simply need to enter the unique ID of the player they wish to add.
+ ><br>
+  > <img src="https://user-images.githubusercontent.com/104200268/230609619-d8f28ef9-11c0-4cd8-99d9-851b5d86a566.jpg" width="90%" height="auto">
   > </div>
   > <br>
 </details>
@@ -208,7 +214,6 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
   > In the game, players have the option to send gifts to their friends to increase their experience points (XP). 
  ><br>
   > <img src="https://user-images.githubusercontent.com/104200268/230608825-86b921e8-b9df-4c5b-add4-3cbc45046a7c.jpg" width="90%" height="auto">
-  > <img src="https://user-images.githubusercontent.com/104200268/230608816-1f78a3d6-1ede-42d5-b0cf-79dbeffbf622.jpg" width="90%" height="auto">
   > </div>
   > <br>
  > <div align="center"> 
