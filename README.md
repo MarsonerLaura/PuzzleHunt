@@ -137,25 +137,25 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
    <br>
  
  > <div align="center"> 
-  > If the player collects a puzzle piece on the map this popup is shown.
+  > When a player collects a puzzle piece on the map, a popup is displayed, showcasing that the player collected a piece.
  > <br>
   > <img src="https://user-images.githubusercontent.com/104200268/230577610-4eb48ae0-8f40-4b9c-b4ae-ee87881791c4.PNG" width="40%" height="auto">
   > </div>
   > <br>
  > <div align="center"> 
-  > The piece is then added to the inventory where player can eiter look at their single pieces or at the sets of pieces which represent a puzzle.
+  > All collected puzzle pieces are automatically added to the inventory, where players can view individual pieces or sets of pieces that represent a puzzle. This feature makes it easy for players to keep track of their progress and engage with the game.
  > <br>
   > <img src="https://user-images.githubusercontent.com/104200268/230577637-11d09969-5ed5-45c7-be73-b27c4be1934e.PNG" width="40%" height="auto">
   > </div>
   > <br>
  > <div align="center"> 
-  > For the sets the number of pieces the player has already collected and the number of possible pieces is shown.
+  > For each puzzle set, players can view the number of pieces they have already collected, as well as the total number of pieces required to complete the puzzle. This feature adds a sense of excitement and motivation, encouraging players to continue playing and collecting pieces.
  > <br>
   > <img src="https://user-images.githubusercontent.com/104200268/230577660-bb508f5a-3fa9-4aba-98a1-e5a42c40d4ad.PNG" width="40%" height="auto">
   > </div>
   > <br>
  > <div align="center"> 
-  > If the player clicks on a set the whole picture of the puzzle is displayed and the already collected pieces are displayed in color while the others are in greyscale.
+  > When a player clicks on a puzzle set, the full picture of the puzzle is displayed, with collected pieces displayed in color and uncollected pieces displayed in greyscale. This feature provides a clear overview of the puzzle progress, allowing players to easily identify which pieces they need to collect next.
  > <br>
   > <img src="https://user-images.githubusercontent.com/104200268/230577703-0e269c1c-fd97-42a2-8360-4325e5835418.PNG" width="40%" height="auto">
   > </div>
