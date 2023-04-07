@@ -120,6 +120,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 
 <details>
  <summary>Weather dependent Puzzle-Piece spawning and collection</summary>
+ <br>
  
   > <div align="center"> 
   > Players can collect puzzle pieces displayed on a map by exploring the real world, similar to Pokemon Go. The type of puzzle pieces that spawn is determined by the current weather condition. For example, cloudy weather will cause more border pieces to appear. Additionally, custom text based on the current weather is displayed. This feature was made possible through the use of OpenWeatherAPI, which seamlessly integrated real-time weather data into the app.
@@ -130,42 +131,110 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 
 </details>
 
-<details>
- <summary>Collect Puzzle-Pieces</summary>
-</details>
 
 <details>
- <summary>Weather dependent Puzzle-Piece spawning</summary>
+ <summary>Collect Puzzle Pieces</summary>
+   <br>
+
+![81annt](https://user-images.githubusercontent.com/104200268/230577675-ff7a8716-57bb-44ed-9d6d-b9af1eb1db09.PNG)
+
+
+ > <div align="center"> 
+  > If the player collects a puzzle piece on the map this popup is shown.
+ > <br>
+  > <img src="https://user-images.githubusercontent.com/104200268/230577610-4eb48ae0-8f40-4b9c-b4ae-ee87881791c4.PNG" width="60%" height="auto">
+  > </div>
+  > <br>
+ > <div align="center"> 
+  > The piece is then added to the inventory where player can eiter look at their single pieces or at the sets of pieces which represent a puzzle.
+ > <br>
+  > <img src="https://user-images.githubusercontent.com/104200268/230577637-11d09969-5ed5-45c7-be73-b27c4be1934e.PNG" width="60%" height="auto">
+ > <img src=" https://user-images.githubusercontent.com/104200268/230577637-11d09969-5ed5-45c7-be73-b27c4be1934e.PNG" width="60%" height="auto">
+
+  > </div>
+  > <br>
+ > <div align="center"> 
+  > For the sets the number of pieces the player has already collected and the number of possible pieces is shown.
+ > <br>
+  > <img src="https://user-images.githubusercontent.com/104200268/230577660-bb508f5a-3fa9-4aba-98a1-e5a42c40d4ad.PNG" width="60%" height="auto">
+  > </div>
+  > <br>
+ > <div align="center"> 
+  > If the player clicks on a set the whole picture of the puzzle is displayed and the already collected pieces are displayed in color while the others are in greyscale.
+ > <br>
+  > <img src="https://user-images.githubusercontent.com/104200268/230577703-0e269c1c-fd97-42a2-8360-4325e5835418.PNG" width="60%" height="auto">
+  > </div>
+  > <br>
 </details>
+
 
 <details>
  <summary>Friendship Boni</summary>
+  <br>
+ 
+  > <div align="center"> 
+  > Players can collect puzzle pieces displayed on a map by exploring the real world, similar to Pokemon Go. The type of puzzle pieces that spawn is determined by the current weather condition. For example, cloudy weather will cause more border pieces to appear. Additionally, custom text based on the current weather is displayed. This feature was made possible through the use of OpenWeatherAPI, which seamlessly integrated real-time weather data into the app.
+ ><br>
+  > <img src="https://user-images.githubusercontent.com/104200268/230571106-31b7c858-c5f9-4d8d-8efd-fe399be003a5.jpg" width="80%" height="auto">
+  > </div>
+  > <br>
 </details>
 
 <details> 
  <summary>Dealer</summary>
+  <br>
+ 
+  > <div align="center"> 
+  > Players can collect puzzle pieces displayed on a map by exploring the real world, similar to Pokemon Go. The type of puzzle pieces that spawn is determined by the current weather condition. For example, cloudy weather will cause more border pieces to appear. Additionally, custom text based on the current weather is displayed. This feature was made possible through the use of OpenWeatherAPI, which seamlessly integrated real-time weather data into the app.
+ ><br>
+  > <img src="https://user-images.githubusercontent.com/104200268/230571106-31b7c858-c5f9-4d8d-8efd-fe399be003a5.jpg" width="80%" height="auto">
+  > </div>
+  > <br>
 </details>
 
 <details>
  <summary>Shops</summary>
+  <br>
+ 
+  > <div align="center"> 
+  > Players can collect puzzle pieces displayed on a map by exploring the real world, similar to Pokemon Go. The type of puzzle pieces that spawn is determined by the current weather condition. For example, cloudy weather will cause more border pieces to appear. Additionally, custom text based on the current weather is displayed. This feature was made possible through the use of OpenWeatherAPI, which seamlessly integrated real-time weather data into the app.
+ ><br>
+  > <img src="https://user-images.githubusercontent.com/104200268/230571106-31b7c858-c5f9-4d8d-8efd-fe399be003a5.jpg" width="80%" height="auto">
+  > </div>
+  > <br>
 </details>
 
 <details>
  <summary>Trade Puzzle-Pieces</summary>
+  <br>
+ 
+  > <div align="center"> 
+  > Players can collect puzzle pieces displayed on a map by exploring the real world, similar to Pokemon Go. The type of puzzle pieces that spawn is determined by the current weather condition. For example, cloudy weather will cause more border pieces to appear. Additionally, custom text based on the current weather is displayed. This feature was made possible through the use of OpenWeatherAPI, which seamlessly integrated real-time weather data into the app.
+ ><br>
+  > <img src="https://user-images.githubusercontent.com/104200268/230571106-31b7c858-c5f9-4d8d-8efd-fe399be003a5.jpg" width="80%" height="auto">
+  > </div>
+  > <br>
 </details>
 
-<details>
- <summary>Trade Puzzle-Pieces</summary>
-</details>
+
  
 <details>
  <summary>Leaderboard</summary>
+  <br>
+ 
+  > <div align="center"> 
+  > Players can collect puzzle pieces displayed on a map by exploring the real world, similar to Pokemon Go. The type of puzzle pieces that spawn is determined by the current weather condition. For example, cloudy weather will cause more border pieces to appear. Additionally, custom text based on the current weather is displayed. This feature was made possible through the use of OpenWeatherAPI, which seamlessly integrated real-time weather data into the app.
+ ><br>
+  > <img src="https://user-images.githubusercontent.com/104200268/230571106-31b7c858-c5f9-4d8d-8efd-fe399be003a5.jpg" width="80%" height="auto">
+  > </div>
+  > <br>
 </details>
 
 
 
 <details>
  <summary>Leaderboard Code Snippets</summary>
+ <br>
  
  > <details> 
  >  <summary>Leaderboard Activity class that collects all users and displays them sortet by XP Points</summary>
@@ -480,6 +549,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 <h1>Development Process</h1>
 <details>
   <summary>Feature Brainstorming</summary>
+ <br>
  
  >  <div align="center">
  > At the beginning of the development process each of the teammembers had to sketch out and detail 3 potential features for the game. 
@@ -596,7 +666,8 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  
 <details>
   <summary>Storyboard</summary>
-  
+   <br>
+ 
  > <div align="center">
  > To show an example day of a user of the PuzzleHunt app a storyboard was created. This image shows the whole storyboard and the smaller ones show each step of the storyboard.
  > <img src="https://user-images.githubusercontent.com/104200268/229363088-d3b05454-a447-4841-b901-398ac13980cd.png" width="100%" height="auto">
