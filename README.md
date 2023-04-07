@@ -218,14 +218,14 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
   > <div align="center"> 
   > The game offers a trading feature that allows players to exchange puzzle pieces with other players. Players can initiate a trade request by clicking on another player either from their friend list or when they find them on the map. The receiving player can choose to accept or decline the request.
  ><br>
-  > <img src="https://user-images.githubusercontent.com/104200268/230581921-f75e480a-74e5-4df3-ab41-4669a6434504.jpg" width="80%" height="auto">
+  > <img src="https://user-images.githubusercontent.com/104200268/230581921-f75e480a-74e5-4df3-ab41-4669a6434504.jpg" width="100%" height="auto">
   > </div>
   > <br>
  > <div align="center"> 
   > Once both players agree to trade, a trade window is opened where they can select the pieces they want to exchange.
  ><br>
-  > <img src="https://user-images.githubusercontent.com/104200268/230581934-eb01a82f-6811-422c-86ce-5c0199d393d2.jpg" width="80%" height="auto">
- > <img src="https://user-images.githubusercontent.com/104200268/230581944-9522f4c3-634b-4659-b8f0-8f91d21c4b67.jpg" width="80%" height="auto">
+  > <img src="https://user-images.githubusercontent.com/104200268/230581934-eb01a82f-6811-422c-86ce-5c0199d393d2.jpg" width="60%" height="auto">
+ > <img src="https://user-images.githubusercontent.com/104200268/230581944-9522f4c3-634b-4659-b8f0-8f91d21c4b67.jpg" width="60%" height="auto">
   > </div>
   > <br>
  > <div align="center"> 
