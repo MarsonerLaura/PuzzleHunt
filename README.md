@@ -243,7 +243,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
   > <div align="center"> 
   > If both players accept the trade, a window confirming the successful trade is displayed, and the traded pieces are shown. This feature adds a social element to the game, enabling players to connect with others and collaborate to complete their puzzle collections.
  ><br>
-  > <img src="https://user-images.githubusercontent.com/104200268/230581975-fa52a7d2-73df-41dd-b226-4d4006018bd3.jpg" width="80%" height="auto">
+  > <img src="https://user-images.githubusercontent.com/104200268/230581975-fa52a7d2-73df-41dd-b226-4d4006018bd3.jpg" width="70%" height="auto">
   > </div>
   > <br>
 
