@@ -63,13 +63,13 @@
  <br>
  <br>
  <h1>Features</h1>
-<li>Collect Puzzle-Pieces</li>
+<li>Collect Puzzle Pieces</li>
 <li>Friendship Boni</li>
 <li>Dealer & Shops</li>
 <li>Leaderboard</li>
-<li>Trade Puzzle-Pieces</li>
+<li>Trade Puzzle Pieces</li>
 <li>Send Gifts</li>
-<li>Weather dependent Puzzle-Piece spawning</li>
+<li>Weather dependent Puzzle Piece spawning</li>
 </div>
 </p>
 
@@ -119,7 +119,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 
 
 <details>
- <summary>Weather dependent Puzzle-Piece spawning and collection</summary>
+ <summary>Weather dependent Puzzle Piece spawning</summary>
  <br>
  
   > <div align="center"> 
@@ -218,9 +218,9 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
   <br>
  
   > <div align="center"> 
-  > Players can collect puzzle pieces displayed on a map by exploring the real world, similar to Pokemon Go. The type of puzzle pieces that spawn is determined by the current weather condition. For example, cloudy weather will cause more border pieces to appear. Additionally, custom text based on the current weather is displayed. This feature was made possible through the use of OpenWeatherAPI, which seamlessly integrated real-time weather data into the app.
+  > The game features a leaderboard that enables players to compare their progress against others. The leaderboard is ranked based on experience points (XP), with the player who has accumulated the most XP being ranked at the top. This feature adds a competitive edge to the game, encouraging players to engage in the game to earn a top rank on the leaderboard.
  ><br>
-  > <img src="https://user-images.githubusercontent.com/104200268/230571106-31b7c858-c5f9-4d8d-8efd-fe399be003a5.jpg" width="80%" height="auto">
+  > <img src="https://user-images.githubusercontent.com/104200268/230579861-d3ec10eb-4fba-4729-a1d2-af9b13de2859.PNG" width="50%" height="auto">
   > </div>
   > <br>
 </details>
@@ -229,7 +229,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 
 <details>
  <summary>Leaderboard Code Snippets</summary>
- <br>
+<br>
  
  > <details> 
  >  <summary>Leaderboard Activity class that collects all users and displays them sortet by XP Points</summary>
