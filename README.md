@@ -167,11 +167,22 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 <details>
  <summary>Add and Remove Friends</summary>
   <br>
- 
   > <div align="center"> 
   > 
  ><br>
   > <img src="" width="80%" height="auto">
+  > </div>
+  > <br>
+</details>
+
+<details>
+ <summary>Edit Profile</summary>
+  <br>
+ 
+  > <div align="center"> 
+  > Players have the option to edit their profile by updating their name and adding a description. This allows players to personalize their account and add more information about themselves for others to see. 
+ ><br>
+  > <img src="https://user-images.githubusercontent.com/104200268/230607770-02d4c479-cd65-4b91-9338-d3183afeb72c.jpg" width="90%" height="auto">
   > </div>
   > <br>
 </details>
@@ -207,13 +218,13 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
   > <div align="center"> 
   > Players can also visit shops in the game, as shown in the picture. Clicking on a shop opens a pop-up asking the player if they want to enter. 
  ><br>
-  > <img src="https://user-images.githubusercontent.com/104200268/230606994-dee1fd51-951a-4729-b055-13c330c0fed7.jpg" width="80%" height="auto">
+  > <img src="https://user-images.githubusercontent.com/104200268/230606994-dee1fd51-951a-4729-b055-13c330c0fed7.jpg" width="70%" height="auto">
   > </div>
   > <br>
  > <div align="center"> 
   > Once inside, they can use their XP to purchase different puzzle pieces, which are then added to their inventory. This feature adds more fun to the game, giving players the opportunity to use their XP to get new pieces and complete their puzzle collection.
  ><br>
-  > <img src="https://user-images.githubusercontent.com/104200268/230607002-140438c3-4c69-49c7-ac65-4b31e2cf6327.jpg" width="80%" height="auto">
+  > <img src="https://user-images.githubusercontent.com/104200268/230607002-140438c3-4c69-49c7-ac65-4b31e2cf6327.jpg" width="90%" height="auto">
   > </div>
   > <br>
 </details>
