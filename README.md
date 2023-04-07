@@ -135,34 +135,29 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 <details>
  <summary>Collect Puzzle Pieces</summary>
    <br>
-
-![81annt](https://user-images.githubusercontent.com/104200268/230577675-ff7a8716-57bb-44ed-9d6d-b9af1eb1db09.PNG)
-
-
+ 
  > <div align="center"> 
   > If the player collects a puzzle piece on the map this popup is shown.
  > <br>
-  > <img src="https://user-images.githubusercontent.com/104200268/230577610-4eb48ae0-8f40-4b9c-b4ae-ee87881791c4.PNG" width="60%" height="auto">
+  > <img src="https://user-images.githubusercontent.com/104200268/230577610-4eb48ae0-8f40-4b9c-b4ae-ee87881791c4.PNG" width="40%" height="auto">
   > </div>
   > <br>
  > <div align="center"> 
   > The piece is then added to the inventory where player can eiter look at their single pieces or at the sets of pieces which represent a puzzle.
  > <br>
-  > <img src="https://user-images.githubusercontent.com/104200268/230577637-11d09969-5ed5-45c7-be73-b27c4be1934e.PNG" width="60%" height="auto">
- > <img src=" https://user-images.githubusercontent.com/104200268/230577637-11d09969-5ed5-45c7-be73-b27c4be1934e.PNG" width="60%" height="auto">
-
+  > <img src="https://user-images.githubusercontent.com/104200268/230577637-11d09969-5ed5-45c7-be73-b27c4be1934e.PNG" width="40%" height="auto">
   > </div>
   > <br>
  > <div align="center"> 
   > For the sets the number of pieces the player has already collected and the number of possible pieces is shown.
  > <br>
-  > <img src="https://user-images.githubusercontent.com/104200268/230577660-bb508f5a-3fa9-4aba-98a1-e5a42c40d4ad.PNG" width="60%" height="auto">
+  > <img src="https://user-images.githubusercontent.com/104200268/230577660-bb508f5a-3fa9-4aba-98a1-e5a42c40d4ad.PNG" width="40%" height="auto">
   > </div>
   > <br>
  > <div align="center"> 
   > If the player clicks on a set the whole picture of the puzzle is displayed and the already collected pieces are displayed in color while the others are in greyscale.
  > <br>
-  > <img src="https://user-images.githubusercontent.com/104200268/230577703-0e269c1c-fd97-42a2-8360-4325e5835418.PNG" width="60%" height="auto">
+  > <img src="https://user-images.githubusercontent.com/104200268/230577703-0e269c1c-fd97-42a2-8360-4325e5835418.PNG" width="40%" height="auto">
   > </div>
   > <br>
 </details>
