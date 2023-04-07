@@ -1,5 +1,5 @@
 ![Banner](https://user-images.githubusercontent.com/104200268/229340363-cde75b30-b776-4727-8847-1ac8496c8db4.png)
-<p align="center"><i>PuzzleHunt</i> is a social game for mobile devices that allows players to collect Puzzle Pieces while running around in real life and combine them to complete puzzles. It also allows to gamble at dealers located around the map and to buy puzzlle pieces in shops and to trade them with friends. The longer and better the friendship is the better the trading boni between friends.</p>
+<p align="center"><i>PuzzleHunt</i> is a mobile social game that blends real-life exploration with social interaction and competitive gameplay. Players can traverse real-world locations to collect puzzle pieces and solve puzzles, while also trading pieces with friends and gambling at dealers. The project also includes puzzle shops where players can purchase new pieces to add to their collection and friendship levels that unlock better trading bonuses. </p>
 
 <br>
 
@@ -64,10 +64,10 @@
  <br>
  <h1>Features</h1>
 <li>Collect Puzzle Pieces</li>
-<li>Friendship Boni</li>
+<li>Friendship System</li>
 <li>Dealer & Shops</li>
 <li>Leaderboard</li>
-<li>Trade Puzzle Pieces</li>
+<li>Trading System</li>
 <li>Send Gifts</li>
 <li>Weather dependent Puzzle Piece spawning</li>
 </div>
