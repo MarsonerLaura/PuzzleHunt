@@ -164,13 +164,25 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 
 
 <details>
- <summary>Friendship Boni</summary>
+ <summary>Add and Remove Friends</summary>
   <br>
  
   > <div align="center"> 
-  > Players can collect puzzle pieces displayed on a map by exploring the real world, similar to Pokemon Go. The type of puzzle pieces that spawn is determined by the current weather condition. For example, cloudy weather will cause more border pieces to appear. Additionally, custom text based on the current weather is displayed. This feature was made possible through the use of OpenWeatherAPI, which seamlessly integrated real-time weather data into the app.
+  > 
  ><br>
-  > <img src="https://user-images.githubusercontent.com/104200268/230571106-31b7c858-c5f9-4d8d-8efd-fe399be003a5.jpg" width="80%" height="auto">
+  > <img src="" width="80%" height="auto">
+  > </div>
+  > <br>
+</details>
+
+<details>
+ <summary>Send Gifts to Friends</summary>
+  <br>
+ 
+  > <div align="center"> 
+  > 
+ ><br>
+  > <img src="" width="80%" height="auto">
   > </div>
   > <br>
 </details>
@@ -180,9 +192,9 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
   <br>
  
   > <div align="center"> 
-  > Players can collect puzzle pieces displayed on a map by exploring the real world, similar to Pokemon Go. The type of puzzle pieces that spawn is determined by the current weather condition. For example, cloudy weather will cause more border pieces to appear. Additionally, custom text based on the current weather is displayed. This feature was made possible through the use of OpenWeatherAPI, which seamlessly integrated real-time weather data into the app.
+  > 
  ><br>
-  > <img src="https://user-images.githubusercontent.com/104200268/230571106-31b7c858-c5f9-4d8d-8efd-fe399be003a5.jpg" width="80%" height="auto">
+  > <img src="" width="80%" height="auto">
   > </div>
   > <br>
 </details>
@@ -192,26 +204,50 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
   <br>
  
   > <div align="center"> 
-  > Players can collect puzzle pieces displayed on a map by exploring the real world, similar to Pokemon Go. The type of puzzle pieces that spawn is determined by the current weather condition. For example, cloudy weather will cause more border pieces to appear. Additionally, custom text based on the current weather is displayed. This feature was made possible through the use of OpenWeatherAPI, which seamlessly integrated real-time weather data into the app.
+  > 
  ><br>
-  > <img src="https://user-images.githubusercontent.com/104200268/230571106-31b7c858-c5f9-4d8d-8efd-fe399be003a5.jpg" width="80%" height="auto">
+  > <img src="" width="80%" height="auto">
   > </div>
   > <br>
 </details>
 
 <details>
- <summary>Trade Puzzle-Pieces</summary>
+ <summary>Trade Puzzle Pieces</summary>
   <br>
  
   > <div align="center"> 
-  > Players can collect puzzle pieces displayed on a map by exploring the real world, similar to Pokemon Go. The type of puzzle pieces that spawn is determined by the current weather condition. For example, cloudy weather will cause more border pieces to appear. Additionally, custom text based on the current weather is displayed. This feature was made possible through the use of OpenWeatherAPI, which seamlessly integrated real-time weather data into the app.
+  > The game offers a trading feature that allows players to exchange puzzle pieces with other players. Players can initiate a trade request by clicking on another player either from their friend list or when they find them on the map. The receiving player can choose to accept or decline the request.
  ><br>
-  > <img src="https://user-images.githubusercontent.com/104200268/230571106-31b7c858-c5f9-4d8d-8efd-fe399be003a5.jpg" width="80%" height="auto">
+  > <img src="https://user-images.githubusercontent.com/104200268/230581921-f75e480a-74e5-4df3-ab41-4669a6434504.jpg" width="80%" height="auto">
   > </div>
   > <br>
+ > <div align="center"> 
+  > Once both players agree to trade, a trade window is opened where they can select the pieces they want to exchange.
+ ><br>
+  > <img src="https://user-images.githubusercontent.com/104200268/230581934-eb01a82f-6811-422c-86ce-5c0199d393d2.jpg" width="80%" height="auto">
+ > <img src="https://user-images.githubusercontent.com/104200268/230581944-9522f4c3-634b-4659-b8f0-8f91d21c4b67.jpg" width="80%" height="auto">
+  > </div>
+  > <br>
+ > <div align="center"> 
+  > The pieces available for trade are displayed in the window, and players can choose to offer multiple pieces, from which the other player can select one.
+ ><br>
+  > <img src="https://user-images.githubusercontent.com/104200268/230581959-2002c4ec-9f16-47e4-a4c0-d90084200c9d.jpg" width="80%" height="auto">
+  > </div>
+  > <br>
+ > <div align="center"> 
+  > Once the pieces are selected, the other player is notified of the offer and can choose a piece if there are multiple.
+ ><br>
+  > <img src="https://user-images.githubusercontent.com/104200268/230581965-dc355057-1e53-482d-bc18-cdce5ce54eae.jpg" width="80%" height="auto">
+  > </div>
+  > <br>
+  > <div align="center"> 
+  > If both players accept the trade, a window confirming the successful trade is displayed, and the traded pieces are shown. This feature adds a social element to the game, enabling players to connect with others and collaborate to complete their puzzle collections.
+ ><br>
+  > <img src="https://user-images.githubusercontent.com/104200268/230581975-fa52a7d2-73df-41dd-b226-4d4006018bd3.jpg" width="80%" height="auto">
+  > </div>
+  > <br>
+
 </details>
-
-
  
 <details>
  <summary>Leaderboard</summary>
